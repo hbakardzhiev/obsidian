@@ -1,0 +1,2 @@
+- prepare scrum
+- first 5 minutes are 

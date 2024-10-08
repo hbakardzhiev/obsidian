@@ -1,0 +1,5 @@
+- Any user who wants to be a validator must register on the network as validators through a stake of coins. The stake value is then blocked and frozen.
+- This coin bet can never be less than a certain quantity. In fact the stake must be greater than the gain that they can derive from validating new blocks.
+- In order to work correctly, the algorithm must punish dishonest validators by cutting their stake. This way, validators benefit more from behaving honestly than from attacking the blockchain.
+- Randomly chosen block: The validator is picked through the pairs between the smallest hash value and the biggest stake value. However, since the stakes of each validator are public, this choice can be foreseen.
+- Coin age selection: The validator is chosen based on how long their tokens have been held. Age is calculated based on the number of days the coins are held in the stake for the stake share. However, each time a validator adds a block, the age of the coin is reset to 0. So it has to wait for a certain time interval to validate a new block.
