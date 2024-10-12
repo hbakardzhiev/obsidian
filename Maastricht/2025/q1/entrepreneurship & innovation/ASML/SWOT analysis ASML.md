@@ -21,3 +21,13 @@ The expenses for personnel have increased significantly
 - 15% 2022 from 2021
 - 40% 2023 from 2022
 ![](Pasted%20image%2020241008113130.png)Maybe an option would be to go for another compensation scheme that lowers the tax burden instead of directly paying out wages
+
+
+### Recommendations
+###### Pivoting towards chip production
+- Using Government funds https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-chips-act_en and https://en.wikipedia.org/wiki/CHIPS_and_Science_Act establish a startup company that identifies a chip producer niche in the market that ASML can attack first.
+	- I propose ASML attacks the advanced chips (because [100% of all advanced chips are developed overseas, mostly by TSMC (TSM) in Taiwan](https://finance.yahoo.com/news/us-chip-manufacturing-capacity-projected-to-triple-by-2032-fueled-by-chips-act-industry-leader-142127075.html)). This will be heavily supported by governments because of the geopolitical tensions
+###### Using the political influence of ASML to increase the amount of subsidies that they get
+![](Pasted%20image%2020241011135643.png)
+ASML paid 1.8 bn EUR in the NL in tax alone (this doesn't include indirect investments).
+- I propose ASML to leverage its strong position to influence the government for more subsidies. If they disagree, I propose ASML to freeze further investments in NL and to make further investments somewhere else such as Switzerland or US where they will be more compensated.
