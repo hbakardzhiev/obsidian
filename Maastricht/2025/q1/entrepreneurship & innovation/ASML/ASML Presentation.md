@@ -34,4 +34,18 @@ https://fpt-semiconductor.com/vietnamese-semiconductor-industry/
 - DUV machines can create the above-mentioned. ASML now is very focused on the very advanced chips but could increase its focus on the less advanced ones as well.
 
 
-### 
+### Recommendation
+##### Establish a Semiconductor Manufacturing Subsidiary
+- USA's CHIPS act offers 280 bn dollars to companies that build manufacturing plants. doesn't produce any advanced chips on its territory 
+- Strategic Location Selection
+	- USA because of the subsidies
+- Establish Legal and Corporate Structure
+	- Legal Framework: Set up the subsidiary as per local laws which might involve registering the business, understanding local and international semiconductor regulations, and possibly engaging in joint ventures if local partnerships are beneficial or required.
+	- Intellectual Property: Ensure that all ASML technology transferred to the subsidiary is properly protected under international IP laws
+- Facility Setup and Technology Deployment
+	- Build or Lease Manufacturing Facility: Construct a facility that meets the cleanroom standards necessary for semiconductor manufacturing. This includes Class 1 cleanrooms for the most critical processes.
+	- Install Equipment: Deploy ASML's lithography machines, which could include both DUV and the latest EUV systems, depending on the subsidiary's focus.
+- Talent Acquisition and Training
+	- Hiring: Recruit engineers, technicians, and operational staff
+	- Training Programs: Implement extensive training for employees on ASML's technology, considering ASML's unique position in EUV technology. 
+- Operational Start-Up and Continuous Improvement
