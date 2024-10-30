@@ -123,4 +123,6 @@ Provided help [here](New%20players%20in%20entrepreneurial%20finance%20and%20why%
 		- Facebook
 	- startups need grow fast in order to establish standards and create lock-in
 		- leads to **high** cash-burn rates
-		- 
+
+
+
