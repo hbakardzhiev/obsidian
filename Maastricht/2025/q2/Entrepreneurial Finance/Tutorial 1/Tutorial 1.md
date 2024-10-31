@@ -126,3 +126,21 @@ Provided help [here](New%20players%20in%20entrepreneurial%20finance%20and%20why%
 
 
 
+#### Pecking-order theory
+![](Pasted%20image%2020241030144257.png)
+
+
+#### Italy use case 
+##### Problems 
+- Small Italian firms are financially vulnerable because of their dependency on financial institutions for external funding [here](Capital%20Structure%20Decisions%20During%20a%20Firm's%20Life%20Cycle.pdf#page=8&selection=237,22,239,42)
+- "Capital markets in Italy are relatively undeveloped compared not only to those in the USA but also, to some extent, to those of other large European countries."
+- "Very few companies in Italy have publicly traded corporate debt."
+- "Non-bank sources of debt, other than trade credit, are few. "
+- "In particular, the South of Italy is characterized by underdevelopment and inefficiency in the financial system as well as in the enforcement system. In this case, a poor institutional environment is provided, especially for small and medium-sized firms."
+- "In Italy, credit availability has a strong impact on the growth potential of small firms and on the creation of new ones"
+- 
+
+## Questions
+- How does "bank debt plays a crucial role in the start-up phase of many entrepreneurial firms including high-growth ventures and venture-capital-backed start-ups" if startups do not have anything to leverage? [here](New%20directions%20in%20entrepreneurial%20finance.pdf#page=10&selection=14,35,15,90)
+- If "entrepreneurial firms often seek, but rarely obtain, venture capital finance", how the heck do startups finance themselves? Is it organic growth (postive cashflow) [here](New%20directions%20in%20entrepreneurial%20finance.pdf#page=13&selection=12,0,12,77)
+
