@@ -138,9 +138,20 @@ Provided help [here](New%20players%20in%20entrepreneurial%20finance%20and%20why%
 - "Non-bank sources of debt, other than trade credit, are few. "
 - "In particular, the South of Italy is characterized by underdevelopment and inefficiency in the financial system as well as in the enforcement system. In this case, a poor institutional environment is provided, especially for small and medium-sized firms."
 - "In Italy, credit availability has a strong impact on the growth potential of small firms and on the creation of new ones"
-- 
-
+##### Correlations
+![](Pasted%20image%2020241031151821.png)
+![](Pasted%20image%2020241031151911.png)
 ## Questions
 - How does "bank debt plays a crucial role in the start-up phase of many entrepreneurial firms including high-growth ventures and venture-capital-backed start-ups" if startups do not have anything to leverage? [here](New%20directions%20in%20entrepreneurial%20finance.pdf#page=10&selection=14,35,15,90)
 - If "entrepreneurial firms often seek, but rarely obtain, venture capital finance", how the heck do startups finance themselves? Is it organic growth (postive cashflow) [here](New%20directions%20in%20entrepreneurial%20finance.pdf#page=13&selection=12,0,12,77)
 
+
+
+
+What roles does firm opacity play in the firm's capital structure decisions?
+Which environmental factors play a role int he capital structure decision?
+Explain screening, monitoring, contracting.
+
+
+debt financing you can offset the interest rate from the taxes.
+LaRocca article screening, monitoring, contracting
