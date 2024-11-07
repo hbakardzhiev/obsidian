@@ -4,7 +4,7 @@
 		- Energy transition
 		- Financial healthy living
 	- Team lead of medical desk 
-- Rabo Innovation Loan (They give you around 150k but the fund is around 20million eu)
+- Rabo Innovation Loan (They give you around 150k but the fund is around 20million EUR)
 	- TRL phase 4,5,6  (HVO)
 	- Business account with Rabobank
 	- private limited and based in NL
