@@ -10,6 +10,7 @@
 	- For example, [Kaplan and Strömberg (2001)](https://www.sciencedirect.com/science/article/pii/S0378426611000458#b0165) report that venture capital contracts allocate cash flow rights, voting control, and decision rights. [Bergemann and Hege’s (1998)](https://www.sciencedirect.com/science/article/pii/S0378426611000458#b0030) model shows that a time-varying contract (i.e., finance staging) between entrepreneurs and investors is optimal because it provides information to close the asymmetric information problem
 	- entrepreneur monitoring
 	- entrepreneur screenig 
+	- contract enforcement
 	- private equity providers are better at coping with information asymmetries surrounding new ventures, as they are more prone to employ non-traditional methods in assessing firms' future value where they consider not only financial start-ups' characteristics, but also non-financial ones (business prospect, alliances, top management team characteristics, etc.)
 	- strategy–environment fit will be even more important before start-ups' break-even (when the issue of information asymmetries is the most acute)
 	- business plans may serve as a primary source of information not only on objective firm characteristics, but also on a firm's level of EO
@@ -54,7 +55,7 @@ selection by banks - creditworthiness
 
 You get a text, I get this information, I would apply this evaluation. 
 Kohl - business loans, personal loan
-LaRoco - information asymetry, moral hazzard
+LaRoco - information asymetry, moral hazzard, liffecycle (the lifecycle is dependent on the industry)
 
 
 Monitoring by lenders - business bank credit ,  business street credit (suppliers, interested in product, able to monitor you) 
@@ -77,3 +78,14 @@ signals - product type, experience
 
 
 logit regression - the chance of sth 
+
+
+page 442 (why startups prefer equity over debt)
+what is the contingency approach?
+government sources of finance
+certification effect signalling
+
+
+
+Instrumental variable approach
+Survival analysis
