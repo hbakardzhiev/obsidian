@@ -177,3 +177,4 @@
 - connecting the different papers
 - authors of the papers should be remembered
 - not an econometrics exam, but you will get a table that you have to interpret (survival rate, sign an signficance in logit) 
+- probit is not interpretable numerically
