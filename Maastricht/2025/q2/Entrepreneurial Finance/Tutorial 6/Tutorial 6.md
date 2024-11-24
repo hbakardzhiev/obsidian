@@ -63,6 +63,8 @@
 - Liability of newness
 	- new firms typically lack routines, skills, information and resources – a phenomenon known as the “liability of newness” – which result in higher failure rates and higher uncertainty surrounding new firms
 
+- average marginal effect 
+	- tells us the impact of the one unit increase and its impact
 
 - Hypothesis:
 	- ✅ The deeper a founders knowledge the higher the debt financing
