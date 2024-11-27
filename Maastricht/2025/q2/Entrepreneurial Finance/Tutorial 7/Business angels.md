@@ -37,12 +37,16 @@ Here are the key differences between individual business angels (BAs) and member
 #### Stylised facts of angel investment
 1) angel capital is available capital to which entrepreneurs have access more or less irrespective of their location
 2) angel capital is local capital
-3) angel capital is bridging capital in a multi-stage entrepreneurial process, each of which is associated with a different financier, from the ‘4Fs’ (family, friends, fools and fans), through angel investors to VCs and private equity to IPO
+3) angel capital is bridging capital in a multi-stage entrepreneurial process, each of which is associated with a different financier, from the ‘4Fs’ (family, friends, fools and fans), through angel investors to VCs and private equity to IPO (angel is early to grave)
 4) angel investment is productive investment: however, while angel investors expect lower returns over a longer time horizon than VCs
 5) angel market is an inefficient market characterized by information and signalling deficiencies that make it problematic for would-be investors and investees to meet, information asymmetries between investors and investees that lead to adverse selection and moral hazard problems , and different risk-returns expectations held by actors in the marke
 6) government support is necessary to develop and maintain the angel investment market through support for the establishment and operation of business angel groups and networks, tax incentives and co-investment schemes
 
+debt weight government creates market failures. 
+Tax incentive are not always positive and they drive investment.
 
+What are the type of risks? Agency and Market risk
+Why business angels attach more importants to the agency risk?
 #### What types of risk are there when angel investors are involved? Take the perspective of both the AI and the entrepreneur.
 - **Angel Investor Risks** 
 	- **Financial Loss**: High risk of losing the entire investment. 
@@ -58,6 +62,9 @@ Here are the key differences between individual business angels (BAs) and member
 
 BA invest in jockey (entrepreneur)
 VC invest in horse (business)
+
+
+Tax incentives
 #### Why is government intervention justified (or not) in the AI market? What is the “market failure” to address here?
 **Government Intervention in the Angel Investment Market:** 
 
