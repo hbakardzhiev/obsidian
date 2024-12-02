@@ -14,7 +14,7 @@ Globally, governments are pushing universities to engage with businesses to meet
 ### UK: The Dowling Review of Business-University Research Collaborations
 https://raeng.org.uk/media/wzqfaq4w/04-09-15-dowling-report-final-updated-contributors.pdf
 Refers to a comprehensive examination of business-university collaborations in the UK, led by Professor Dame Ann Dowling. Published in July 2015, the review was commissioned by then Minister for Universities, Science and Cities, Greg Clark, to explore how the government could support more effective collaborations between businesses and university researchers. 
-- FIndings:
+- Findings:
 	- It noted that **personal relationships** **between** **individual researchers** often initiate these collaborations, suggesting that such connections should be encouraged and supported.
 - Recommendations: Among its recommendations, the review suggested:
     - Reducing the complexity of the UK's innovation support system to make it more accessible, particularly for SMEs.
