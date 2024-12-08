@@ -21,8 +21,6 @@ New people who finance young companies [here](New%20players%20in%20entrepreneuri
 		- donation-based
 		- lending-based
 		- investment-based (equity) crowdfunding
-
-
 - non-financial goal-oriented [here](New%20players%20in%20entrepreneurial%20finance%20and%20why%20they%20are%20there.pdf#page=2&selection=78,22,92,12)
 	- social venture funds
 	- strategic and technological goals in case of corporate venture capital (CVC) firms
