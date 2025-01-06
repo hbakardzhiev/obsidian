@@ -1,52 +1,52 @@
-There are companies that each year participate.
-They offer like a project.
-Students submit:
-- CV
-- motivational letter
-- transcript with grades
+Annual Company Participation:
+- Each year, various companies join a program where they offer students project opportunities. To participate, students must submit:
+	- CV
+	- Motivational Letter
+	- Transcript with Grades
+- Selection Process:
+	- Initial Stage:    
+	    - If students pass the initial screening, they are invited to:
+	        - Speed Date Interview:
+	            - Participants receive a booklet with information about interviewees and interviewers.
+	            - Format:    
+	                - 10 minutes per interview, split into:
+	                    - 5 minutes for discussion.
+	                    - 5 minutes for assessment.
+	            - Criteria:
+	                - Students are evaluated on motivation and work ethic.
+	                - Students also assess their interviewers based on seriousness and communication skills.        
+	- Group Project:
+	    - Successful candidates are grouped with peers for a one-hour session to work on a case study, culminating in a poster presentation.
+	        - Note: No internet access is allowed during this task.
 
-if you get pass the initial stage then you are invited for the following:
-- speedate interview (you will get a booklet in there is information about people you need to interview and there are 2 people who will interview you. The booklet is like a form you have to fill in and assess)
-	- there is criteria (motivated enough, hardworking)
-	- you also assess the students that interview (is the person interviewing you is serious, is the communication with the person good)
-	- 10 minutes per interview
-		- 5 minutes for writing down 
-- then you are put in a group of other students. you get 1 hour to work on case and you have to present it in a poster in front of the other people
-	- no internet
+Project Types:
+- Research-Based:
+    - Participants work on producing a research paper.
+- Design-Based:
+    - Focused on developing projects to engage young people, particularly in addressing issues like alcohol consumption or drug misuse. This initiative stemmed from student recommendations the previous year.
 
+Client Types:
+- Co-Creator Client:    
+    - Highly involved; provides office visits, training, and collaborates in brainstorming sessions.
+- Formal Client:
+    - Treats students as consultants, offering limited day-to-day support, requiring students to solve challenges independently.
 
-The projects are 2 types:
-- research based
-	- make paper
-- design based project
-	- make a project to reach out to young people and find more effective ways for alcohol consumption or drug misuse
-		- this project was started by students last year recommendation
+Workshops:
+- To prepare for the projects, students must attend several workshops, some of which are mandatory:
+	- Negotiation
+	- Presentation Skills
+	- Stress Management
+	- CV Writing
+	- Leadership    
+	- Project Management
 
-2 types of clients:
-- co-creator client
-	- work with you (go to their office)
-	- you get training (very involved)
-	- they brainstorm with you
-- formal client
-	- they treat you like a consultant
-		- they wont help you on the day to day
-			- you figure it on your own.
-			- 
+Career Week (April - March):
+- Includes a mock interview workshop to enhance interview readiness.
 
-you have to attend some workshops (to prepare you for the work; some are mandatory):
-- negotation
-- presentation
-- stress management
-- cv 
-- leadership
-- project management
+Project Conclusion:
+- At the end of the project, teams present their work through:
+	- Videos
+	- Presentations
 
-April March (there will be a career week)
-- workshop
-	- mock interview 
-
-
-In the end of the project you present:
-- videos
-- presentation
-The entire interview stage was held in Tapijn on uni Maastricht property
+Location:
+- The entire interview process takes place at Tapijn, on Maastricht University property.
