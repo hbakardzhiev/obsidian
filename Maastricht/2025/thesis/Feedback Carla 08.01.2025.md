@@ -6,7 +6,8 @@ Campino, J., Brochado, A. & Rosa, Á. Initial coin offerings (ICOs): Why do they
 I can say that there is great information disparity between the creator of the project and the investor and entrepreneur
 -> and innovation category could serve as one other option to remedy the problem 
 
-
 ## Success factors
 "Signals are considered to be success factors of ICO projects because they reduce information asymmetries and the projects are more easily perceived as high-quality projects
 (Ackermann et  al. 2020)."
+
+## Measures of success
