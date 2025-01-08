@@ -21,3 +21,29 @@ Gunno Parka , Seungryul Ryan Shinb , Minkyung Choyc, https://www.sciencedirect.c
 Don't fully understand how to apply this one 
 ## Abstract 
 copy the structure very clear
+
+# Blockchain innovation and public policy
+ Potts, J., Davidson, S., & Berg, C. (2020).Journal of Entrepreneurship and Public Policy, 9(2), 149-151.
+## Impact on policy and institutions
+Shows how the technology is so disrupting that it will change 
+## What to use
+"predict that blockchain technology will, on the whole, induce a better institutional environment for entrepreneurial action" 
+
+
+
+# The blockchain in the banking industry: a systematic review and bibliometric analysis
+https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2407681
+
+## Decentralization 
+"Without a centralized computer or single point of failure, these systems are resilient and capable of functioning as decentralized networks."
+"lockchain technology can produce safe, dependable archives of engagements and transactions while streamlining administrative processes (releaven et  al., 2017)."
+
+## Adoption
+"The third-most cited paper, chuetz and Venkatesh (2020), had 153 citations. he article investigates how blockchain technology can help ndia’s problem with financial exclusion. he study suggests that blockchain technology can improve the efficiency, transparency, and cost-effectiveness of the financial sector. n addition, the study lists other problems that need to be fixed before blockchain is applied broadly in this scenario"
+-> when talking about adoption I can mention that it is very positive but 
+
+
+## Transforming the banking sector through innovation
+"45 articles on transforming the banking sector through financial technology innovation that has been cited 492 times according to Scopus."
+-> main obstacles are "scalability, the accessibility of user-generated web data, and the lack of global standards and infrastructure to measure the effectiveness of financial systems are the main obstacles to improving the performance of financial systems"
+
