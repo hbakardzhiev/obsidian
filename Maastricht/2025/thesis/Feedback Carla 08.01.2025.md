@@ -11,3 +11,4 @@ I can say that there is great information disparity between the creator of the p
 (Ackermann et  al. 2020)."
 
 ## Measures of success
+"project’s success is directly linked to the tradability of tokens"
