@@ -48,3 +48,5 @@ https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2407681
 -> main obstacles are "scalability, the accessibility of user-generated web data, and the lack of global standards and infrastructure to measure the effectiveness of financial systems are the main obstacles to improving the performance of financial systems"
 
 ## Blockchain and artificial intelligence
+"The studies in this cluster have found that Blockchain and Artificial intelligence (AI) play significant roles in the supply chain (Alam et  al., 2020), and that artificial intelligence and Blockchain technology improve the effectiveness of the supply chain (Tsolakis et  al., 2022)."
+-> 
