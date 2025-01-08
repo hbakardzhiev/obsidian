@@ -12,3 +12,9 @@ I can say that there is great information disparity between the creator of the p
 
 ## Measures of success
 "project’s success is directly linked to the tradability of tokens"
+
+
+
+# Early mover (dis)advantages and knowledge spillover effects on blockchain startups’ funding and innovation performance
+Gunno Parka , Seungryul Ryan Shinb , Minkyung Choyc, https://www.sciencedirect.com/science/article/abs/pii/S014829631930743X?via%3Dihub
+
