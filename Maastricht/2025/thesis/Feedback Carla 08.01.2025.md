@@ -55,3 +55,9 @@ https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2407681
 - an umbrella term for financial applications that use decentralized technologies, such as blockchains and smart contracts, to operate without a central authority
 "Zetzsche et  al. (2020), has the ability to boost efficiency, save costs, and promote
 financial inclusion"
+
+
+# FINANCIAL INNOVATION: THE IMPACT OF BLOCKCHAIN TECHNOLOGIES ON FINANCIAL INTERMEDIARIES
+NICOLA DEL SARTO, LORENZO GAI, and FEDERICA IELASI
+https://doi.org/10.1142/S2282717X23500056
+
