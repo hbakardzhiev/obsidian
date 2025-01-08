@@ -51,4 +51,7 @@ https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2407681
 ### Blockchain and artificial intelligence
 "The studies in this cluster have found that Blockchain and Artificial intelligence (AI) play significant roles in the supply chain (Alam et  al., 2020), and that artificial intelligence and Blockchain technology improve the effectiveness of the supply chain (Tsolakis et  al., 2022)."
 ->  Supply chain an innovation category that benefits 
-
+### Decentralized Finance
+- an umbrella term for financial applications that use decentralized technologies, such as blockchains and smart contracts, to operate without a central authority
+"Zetzsche et  al. (2020), has the ability to boost efficiency, save costs, and promote
+financial inclusion"
