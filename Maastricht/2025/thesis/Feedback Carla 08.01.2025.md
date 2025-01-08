@@ -18,3 +18,6 @@ I can say that there is great information disparity between the creator of the p
 # Early mover (dis)advantages and knowledge spillover effects on blockchain startups’ funding and innovation performance
 Gunno Parka , Seungryul Ryan Shinb , Minkyung Choyc, https://www.sciencedirect.com/science/article/abs/pii/S014829631930743X?via%3Dihub
 
+Don't fully understand how to apply this one 
+## Abstract 
+copy the structure very clear
