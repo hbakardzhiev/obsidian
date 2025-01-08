@@ -47,3 +47,4 @@ https://www.tandfonline.com/doi/full/10.1080/23311975.2024.2407681
 "45 articles on transforming the banking sector through financial technology innovation that has been cited 492 times according to Scopus."
 -> main obstacles are "scalability, the accessibility of user-generated web data, and the lack of global standards and infrastructure to measure the effectiveness of financial systems are the main obstacles to improving the performance of financial systems"
 
+## Blockchain and artificial intelligence
