@@ -61,3 +61,5 @@ financial inclusion"
 NICOLA DEL SARTO, LORENZO GAI, and FEDERICA IELASI
 https://doi.org/10.1142/S2282717X23500056
 
+## Digital transformation
+"Investment in new technologies such as blockchain should be encouraged by the authorities around the world due to a positive relation between fintech credit and efficiency of banking systems"
