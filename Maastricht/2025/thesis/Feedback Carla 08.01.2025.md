@@ -63,3 +63,6 @@ https://doi.org/10.1142/S2282717X23500056
 
 ## Digital transformation
 "Investment in new technologies such as blockchain should be encouraged by the authorities around the world due to a positive relation between fintech credit and efficiency of banking systems"
+
+## Benefits of blockchain
+"As a result, cross-border payments are both faster and more secure because there is not a single point of failure where fraud or data breaches could occur. Additionally, all transactions are recorded on a public ledger where they can be viewed by anyone, increasing openness and fostering a climate of trust between the parties to the transaction"
