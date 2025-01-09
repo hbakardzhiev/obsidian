@@ -66,3 +66,6 @@ https://doi.org/10.1142/S2282717X23500056
 
 ## Benefits of blockchain
 "As a result, cross-border payments are both faster and more secure because there is not a single point of failure where fraud or data breaches could occur. Additionally, all transactions are recorded on a public ledger where they can be viewed by anyone, increasing openness and fostering a climate of trust between the parties to the transaction"
+
+## Benefits of Smart contracts
+"In fact, a feature of these smart contracts is 'auto enforcement', i.e. the guarantee of the automatic execution of the contract upon the occurrence of pre-established conditions. This eliminates the risk of incorrect, failed or imperfect application of the contractual clauses and conditions, sterilizing the human component or in any case the counterparty risk (Kolvart et al., 2016)."
