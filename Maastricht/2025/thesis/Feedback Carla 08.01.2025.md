@@ -69,3 +69,7 @@ https://doi.org/10.1142/S2282717X23500056
 
 ## Benefits of Smart contracts
 "In fact, a feature of these smart contracts is 'auto enforcement', i.e. the guarantee of the automatic execution of the contract upon the occurrence of pre-established conditions. This eliminates the risk of incorrect, failed or imperfect application of the contractual clauses and conditions, sterilizing the human component or in any case the counterparty risk (Kolvart et al., 2016)."
+
+## DeFi
+"DeFi allows people to trade cryptocurrencies on exchanges decentralized, provide or request loans, use derivative instruments then create tokens based on the performance of assets (leveraging as seen above the blockchain) and to make instant payments in Bitcoin without fees. An important role attributed to this new subject is the 'tokenization' of real assets, such as services that a company can offer, however, with more automation and traceability of the same."
+
