@@ -1,5 +1,5 @@
--  Nevi's kettle
+- Nevi's kettle
 - The desk
 - the chair
 - the speakers
-- 
+- headphones from Deni
