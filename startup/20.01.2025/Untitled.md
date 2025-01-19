@@ -1,7 +1,6 @@
 Where is the
 
-Call 3 universities connect
-
+- [ ] Call 3 universities Dutch connect 
 
 - [ ] Structure the onedrive folder that we have
 - [ ] List all accelerators/incubators resources that they offer for founders and startups
