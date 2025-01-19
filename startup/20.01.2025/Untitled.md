@@ -1,8 +1,9 @@
-Where is the
 
-- [ ] Call 3 universities Dutch connect 
+
+- [ ] Call 3 universities Dutch connect (Where is the list of the dutch universities?)
 
 - [ ] Structure the onedrive folder that we have
+
 - [ ] List all accelerators/incubators resources that they offer for founders and startups
 	- [ ] go over their resources
 	- [ ] put them in the folder categorized by topic
