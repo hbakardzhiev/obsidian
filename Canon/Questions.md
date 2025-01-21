@@ -1,0 +1,3 @@
+- Are there any equity or stock options available as part of the compensation package?
+- gym memberships?
+- 
