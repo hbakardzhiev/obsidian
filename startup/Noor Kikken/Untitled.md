@@ -43,6 +43,12 @@ They discuss on key success factors after delivery of project?
 
 They have a meeting with the companies afterwards and they are satisfied
 
-End-deliverables presentation very e
-- report
-- presentation
+End-deliverables : presentation (although very extensive)
+- not sure if the deliverable is actionable (eg. step by step)
+
+Reliable data quality 
+
+Financial studies association (so communication with the project is the )
+
+
+first 2 weeks of August end of project
