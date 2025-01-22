@@ -12,7 +12,8 @@ In NGO program and Stef's mentor is in high management (has connections to the A
 - What is the participation that is required of company?
 	- Not required (but time and effort is required)
 		- Initially (we need more time, but after we need far less)
-		- In Asia (w)
 	- If assignment is in NL, then they will come to you!
-	- 
-- 
+- They are discussing a RQ which to solve with the company
+- In terms of studies
+	- Financial background primarily
+		- 4 people per project
