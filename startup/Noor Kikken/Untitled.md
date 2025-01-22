@@ -17,3 +17,15 @@ In NGO program and Stef's mentor is in high management (has connections to the A
 - In terms of studies
 	- Financial background primarily
 		- 4 people per project
+- What is the project group?
+	- 20 students -> 4 people per project
+
+NDA:
+- sharing confidential data
+- the participants will sign an NDA
+
+
+They get several training, and each group gets one consultant as assigned
+
+Ideal profile:
+- no profile 
