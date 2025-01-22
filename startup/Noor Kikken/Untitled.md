@@ -48,7 +48,9 @@ End-deliverables : presentation (although very extensive)
 
 Reliable data quality 
 
-Financial studies association (so communication with the project is the )
+Financial studies association (so communication with the project is only done through students)
+
+- Talent recruitment purpose
 
 
 first 2 weeks of August end of project
