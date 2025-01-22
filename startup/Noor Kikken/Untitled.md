@@ -28,4 +28,13 @@ NDA:
 They get several training, and each group gets one consultant as assigned
 
 Ideal profile:
-- no profile 
+- no profile we just wanna help companies with relevant South East Asia
+- no requirements on business model
+
+When is the deadline?
+- as soon as possible (but latest is end of February)
+
+Examples of past research questions:
+- (will be sent by them)
+
+They discuss on key success factors with 
