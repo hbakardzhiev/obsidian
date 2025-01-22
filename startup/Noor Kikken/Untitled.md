@@ -7,6 +7,7 @@ In NGO program and Stef's mentor is in high management (has connections to the A
 	- The idea is that we decide together with the company what the assignment is
 		- previous years we have done market research
 		- 5 months of desk research in NL, and for some weeks they go around in Asia
+			- (10/12 hours a week, and fulltime during the time in Asia)
 			- For the travels (they do not want money)
 			- what is the fee? 15k euros fixed fee
 - What is the participation that is required of company?
@@ -37,4 +38,11 @@ When is the deadline?
 Examples of past research questions:
 - (will be sent by them)
 
-They discuss on key success factors with 
+They discuss on key success factors after delivery of project?
+- but it is private
+
+They have a meeting with the companies afterwards and they are satisfied
+
+End-deliverables presentation very e
+- report
+- presentation
