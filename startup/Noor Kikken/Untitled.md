@@ -53,4 +53,9 @@ Financial studies association (so communication with the project is only done th
 - Talent recruitment purpose
 
 
+
+Collaborate with big consultant companies
+Top 10 uni
+
+
 first 2 weeks of August end of project
