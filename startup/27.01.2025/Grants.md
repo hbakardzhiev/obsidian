@@ -20,4 +20,3 @@
 | https://techstartni.flexigrant.com/                                                    | expired      | yes                 | $40,000.00  |                                                         |
 | https://www.mothfund.com/                                                              | available    | yes                 | $5,000.00   | available also only for a chat                          |
 | https://womentecheurope.eu/                                                            | available    | not yet             | $78,000.00  |                                                         |
-
