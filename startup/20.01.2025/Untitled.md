@@ -8,6 +8,6 @@
 	- [ ] go over their resources
 	- [ ] put them in the folder categorized by topic
 
-- [ ] go to EWOR
-	- [ ] section grants (50, 60 grants that I should go over and see if we qualify) 
+- [x] go to EWOR
+	- [x] section grants (50, 60 grants that I should go over and see if we qualify) 
 		https://airtable.com/appozUKopuktlyZkO/shrlvGt1O8IabgSE2/tblbp4wbpOy4z0MTF
