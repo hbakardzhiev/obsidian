@@ -7,6 +7,7 @@
 - [ ] List all accelerators/incubators resources that they offer for founders and startups
 	- [ ] go over their resources
 	- [ ] put them in the folder categorized by topic
+	- [ ] check accelerators/incubators that offer money or whatever
 
 - [x] go to EWOR
 	- [x] section grants (50, 60 grants that I should go over and see if we qualify) 
