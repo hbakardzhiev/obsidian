@@ -12,4 +12,5 @@
 		X, = market value of preferred and common equity (number of shares x price
 		of stock)/total liabilities,
 		X, = sales/total assets.
-	
+- [ ] disable intel management bullshit on all all host
+	- [ ] disable on alice
