@@ -21,4 +21,4 @@
 | Remote + Germany            | https://www.spinlab.co/                                               | 50 000 EUR                           | grant                                                          |                                                     |
 | Spain                       | https://www.demium.com/                                               | 100 000 EUR                          | Convertible loan                                               | I think incorporation in spain is necessary         |
 | Remote or Norway            | https://accelerator.norrsken.org/                                     | 125 000 USD                          | Unkown                                                         |                                                     |
-|                             |                                                                       |                                      |                                                                |                                                     |
+
