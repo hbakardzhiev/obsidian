@@ -18,4 +18,10 @@ You should ask questions `that even your mom can’t lie to you about`.
 
 ### Sort-of-okay questions
 - What would your dream product do?
-	-> Let’s improve it: The value comes from understanding why they want these features. You don’t want to just collect feature requests. You aren’t building the product by committee. But the motivations and constraints behind those requests are critical.
+	-> Let’s improve it: The value comes from understanding why they want these features. You don’t want to just collect feature requests. You aren’t building the product by committee. But the motivations and constraints behind those requests are critical. 
+	-> It sets the tone for exploration by asking more questions down the road.
+
+
+### Good questions
+
+
