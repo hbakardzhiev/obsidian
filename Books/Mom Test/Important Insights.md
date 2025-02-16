@@ -87,3 +87,5 @@ Not being able to answer these questions means that you’ve got a compliment in
 
 - **Instead ask about the past and how are they solving it now?** 
 
+### A useful conversation
+- 
