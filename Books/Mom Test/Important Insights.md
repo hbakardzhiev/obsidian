@@ -23,5 +23,6 @@ You should ask questions `that even your mom can’t lie to you about`.
 
 
 ### Good questions
-
+- Why do you bother?
+	-> 
 
