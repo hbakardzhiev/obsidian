@@ -35,4 +35,5 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- When’s the last time this came up?
 	- Did you google around for any other ways to solve it?
 	- Rule of  thumb: **If they haven't looked for ways of solving it already, they're not going to look for (or buy) yours.**
-- 
+- Would you pay X for a product which did Y?
+	- 
