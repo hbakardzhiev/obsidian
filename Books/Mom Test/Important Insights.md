@@ -27,4 +27,12 @@ You should ask questions `that even your mom can’t lie to you about`.
 		- So someone can try to blow out a problem out of proportion but asking them `What are the implications?` can reveal that maybe that is not really a big problem.
 - Talk me through the last time that happened.
 	- “show, not tell” -> whenever possible, you want to be shown, not told by your customers
-	- 
+	- Get as close to the real action as you can. Seeing it first hand can provide unique insight into murky situations. But if you can’t get in there, asking them to talk you through the last time it happened still offers many of the benefits. 
+- What else have you tried?
+	- What are they using now?
+	- How much does it cost and what do they love and hate about it? 
+	- How much would those fixes be worth and how big of a pain would it be for them to switch to a new solution?
+	- When’s the last time this came up?
+	- Did you google around for any other ways to solve it?
+	- Rule of  thumb: **If they haven't looked for ways of solving it already, they're not going to look for (or buy) yours.**
+- 
