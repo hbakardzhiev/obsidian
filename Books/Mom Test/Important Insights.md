@@ -5,3 +5,4 @@
 3) Talk less and listen more
 You should ask questions `that even your mom can’t lie to you about`.
 
+
