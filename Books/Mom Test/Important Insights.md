@@ -58,4 +58,9 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- Rule of  thumb: **People want to help you, but they rarely do so unless you give them an excuse to do so**.
 
 
-###
+# Avoiding Bad Data
+### Things to watch out for
+1) Compliments
+2) Fluff (generics, hypotheticals, and the future)
+3) Ideas
+
