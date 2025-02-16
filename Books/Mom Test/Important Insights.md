@@ -18,6 +18,7 @@ You should ask questions `that even your mom can’t lie to you about`.
 - What would your dream product do?
 	- Let’s improve it: The value comes from understanding why they want these features. You don’t want to just collect feature requests. You aren’t building the product by committee. But the motivations and constraints behind those requests are critical. 
 	- It sets the tone for exploration by asking more questions down the road.
+	- Rule of  thumb: People **know what their problems are, but they don’t know how to solve them**.
 
 ### Good questions
 - Why do you bother?
