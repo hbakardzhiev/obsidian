@@ -64,3 +64,5 @@ You should ask questions `that even your mom can’t lie to you about`.
 2) Fluff (generics, hypotheticals, and the future)
 3) Ideas
 
+### What to do in conversation with compliments
+- Always ignore compliments and ask them to 
