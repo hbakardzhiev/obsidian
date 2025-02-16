@@ -50,4 +50,4 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- Beyond workflow information, this gives you a price anchor. If they’re paying £100/month for a duct-tape workaround, you know which ballpark you're playing in. On the other hand, they may have spent £120,000 this year on agency fees to maintain a site you're replacing. If that's the case, you don't want to be having the £100 conversation.
 	- Rule of  thumb: While it’s rare for someone to tell you precisely what they’ll pay you, **they’ll often show you what it’s worth to them**.
 - Where does the money come from?
-	- 
+	- Leads to a conversation about whose budget the purchase will come from and who else within their company holds the power to torpedo the deal. 
