@@ -13,4 +13,4 @@
 		of stock)/total liabilities,
 		X, = sales/total assets.
 - [ ] disable intel management bullshit on all all host
-	- [ ] {WIP} disable on alice
+	- [x] {WIP} disable on alice
