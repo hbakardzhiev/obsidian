@@ -56,4 +56,6 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- Asking this question gives the people being interviewed a chance to politely “fix” your line of questioning. And they will!
 	- This question is a bit of a crutch: you’ll discard it as you get better at asking good questions and as you get to know the industry.
 	- Rule of  thumb: **People want to help you, but they rarely do so unless you give them an excuse to do so**.
-- 
+
+
+###
