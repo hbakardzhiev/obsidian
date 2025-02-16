@@ -22,5 +22,7 @@ You should ask questions `that even your mom can’t lie to you about`.
 ### Good questions
 - Why do you bother?
 	- The “why do you bother” question led to “so we can be certain that we’re all working off the latest version.” Aha. The solution ended up being less like the requested messaging tool and more like Dropbox. A question like “why do you bother” points toward their motivations. It gives you the why. 
-- 
+- What are the implications of that?
+	- I once had someone keep describing the workflow we were fixing with emotionally loaded terms like “DISASTER”, accompanied by much yelling and arm waving. But when I asked him what the implications were, he sort of shrugged and said “Oh, we just ended up throwing a bunch of interns at the problem—it’s actually working pretty well.”
+		- So someone can try to blow out a problem out of proportion but asking them [[Important Insights.md#Good question]] can reveal that maybe that is not really a big problem.
 
