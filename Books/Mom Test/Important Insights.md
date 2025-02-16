@@ -77,3 +77,13 @@ You should ask questions `that even your mom can’t lie to you about`.
 - What else has he tried which failed to solve his problem? 
 Not being able to answer these questions means that you’ve got a compliment instead of real data.
 
+### What question to not ask since they bias the interviewee?
+- “Do you ever…”
+- “Would you ever…”
+- “What do you usually…”
+- “Do you think you…”
+- “Might you…”
+- “Could you see yourself…”
+
+- **Instead ask about the past and how are they solving it now?** 
+
