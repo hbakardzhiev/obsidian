@@ -36,4 +36,5 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- Did you google around for any other ways to solve it?
 	- Rule of  thumb: **If they haven't looked for ways of solving it already, they're not going to look for (or buy) yours.**
 - Would you pay X for a product which did Y?
+	- Let’s fix it: As always, ask about what they currently do now, not what they believe they might do in the future. Common wisdom is that you price your product in terms of value to the customer rather than cost to you. That's true. And you can't quantify the value received without prodding their financial worldview.
 	- 
