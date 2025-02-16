@@ -22,12 +22,15 @@ You should ask questions `that even your mom can’t lie to you about`.
 ### Good questions
 - Why do you bother?
 	- The “why do you bother” question led to “so we can be certain that we’re all working off the latest version.” Aha. The solution ended up being less like the requested messaging tool and more like Dropbox. A question like “why do you bother” points toward their motivations. It gives you the why. 
+	- Rule of  thumb: **You're shooting blind until you understand their goals.**
 - What are the implications of that?
 	- I once had someone keep describing the workflow we were fixing with emotionally loaded terms like “DISASTER”, accompanied by much yelling and arm waving. But when I asked him what the implications were, he sort of shrugged and said “Oh, we just ended up throwing a bunch of interns at the problem—it’s actually working pretty well.”
 		- So someone can try to blow out a problem out of proportion but asking them `What are the implications?` can reveal that maybe that is not really a big problem.
+	- Rule of  thumb: **Some problems don’t (actually) matter.**
 - Talk me through the last time that happened.
 	- “show, not tell” -> whenever possible, you want to be shown, not told by your customers
 	- Get as close to the real action as you can. Seeing it first hand can provide unique insight into murky situations. But if you can’t get in there, asking them to talk you through the last time it happened still offers many of the benefits. 
+	- Rule of  thumb: Watching someone do a task will **show you where the problems and inefficiencies really are, not where the customer thinks they are**.
 - What else have you tried?
 	- What are they using now?
 	- How much does it cost and what do they love and hate about it? 
@@ -40,7 +43,5 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- *literally ask for money*:
 		- If you have the deposit or pre-order in hand, you know they were telling the truth.
 - How are you dealing with it now?
-	- Beyond workflow information, this gives you a price anchor. If they’re paying £100/month for a duct-tape workaround, you know which 
-ballpark you're playing in. On the other hand, they may have spent £120,000 
-this year on agency fees to maintain a site you're replacing. If that's the case, you 
-don't want to be having the £100 conversation.
+	- Beyond workflow information, this gives you a price anchor. If they’re paying £100/month for a duct-tape workaround, you know which ballpark you're playing in. On the other hand, they may have spent £120,000 this year on agency fees to maintain a site you're replacing. If that's the case, you don't want to be having the £100 conversation.
+	- Rule of  thumb: While it’s rare for someone to tell you precisely what they’ll pay you, **they’ll often show you what it’s worth to them**.
