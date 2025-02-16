@@ -52,4 +52,7 @@ You should ask questions `that even your mom can’t lie to you about`.
 - Where does the money come from?
 	- Leads to a conversation about whose budget the purchase will come from and who else within their company holds the power to torpedo the deal. 
 	- Often, **you'll find yourself talking to someone other than the budget owner**.
-	- 
+- Is there anything else I should have asked?
+	- Asking this question gives the people being interviewed a chance to politely “fix” your line of questioning. And they will!
+	- This question is a bit of a crutch: you’ll discard it as you get better at asking good questions and as you get to know the industry.
+	- Rule of  thumb: **People want to help you, but they rarely do so unless you give them an excuse to do so.
