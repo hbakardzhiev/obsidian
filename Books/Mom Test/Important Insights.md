@@ -69,3 +69,11 @@ You should ask questions `that even your mom can’t lie to you about`.
 - Question such as:
 	- Can you talk me through how it actually all fits together?
 	- What sort of difficulties have come up with that solution?
+
+### Difference between data and compliment
+- Why did that person like the idea? 
+- How much money would it save him?
+- How would it fit into his life? 
+- What else has he tried which failed to solve his problem? 
+Not being able to answer these questions means that you’ve got a compliment instead of real data.
+
