@@ -37,4 +37,10 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- Rule of  thumb: **If they haven't looked for ways of solving it already, they're not going to look for (or buy) yours.**
 - Would you pay X for a product which did Y?
 	- Let’s fix it: As always, ask about what they currently do now, not what they believe they might do in the future. Common wisdom is that you price your product in terms of value to the customer rather than cost to you. That's true. And you can't quantify the value received without prodding their financial worldview.
-	- 
+	- *literally ask for money*:
+		- If you have the deposit or pre-order in hand, you know they were telling the truth.
+- How are you dealing with it now?
+	- Beyond workflow information, this gives you a price anchor. If they’re paying £100/month for a duct-tape workaround, you know which 
+ballpark you're playing in. On the other hand, they may have spent £120,000 
+this year on agency fees to maintain a site you're replacing. If that's the case, you 
+don't want to be having the £100 conversation.
