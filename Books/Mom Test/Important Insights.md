@@ -26,4 +26,5 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- I once had someone keep describing the workflow we were fixing with emotionally loaded terms like “DISASTER”, accompanied by much yelling and arm waving. But when I asked him what the implications were, he sort of shrugged and said “Oh, we just ended up throwing a bunch of interns at the problem—it’s actually working pretty well.”
 		- So someone can try to blow out a problem out of proportion but asking them `What are the implications?` can reveal that maybe that is not really a big problem.
 - Talk me through the last time that happened.
+	- “show, not tell” -> whenever possible, you want to be shown, not told by your customers
 	- 
