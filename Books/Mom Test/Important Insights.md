@@ -89,4 +89,4 @@ Not being able to answer these questions means that you’ve got a compliment in
 
 # The Pathos Problem
 - Once someone detects that your ego is on the line, they’ll give you fluffy mis-truths and extra compliments. Disregard that data and use The Mom Test to re-focus on the person, their life, and their goals
-- 
+- 2
