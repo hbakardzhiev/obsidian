@@ -1,10 +1,13 @@
 {
 	"nodes":[
-		{"id":"97d94416406b7460","x":-480,"y":-400,"width":250,"height":140,"type":"text","text":"**Professor**"},
 		{"id":"9598b2d84ca53952","type":"text","text":"**UBiridge platform**","x":-480,"y":-60,"width":250,"height":140},
-		{"id":"f90a0116c98c3f3c","type":"text","text":"**Any Interested Business Partner**","x":40,"y":-240,"width":250,"height":140}
+		{"id":"97d94416406b7460","x":-680,"y":-370,"width":250,"height":140,"type":"text","text":"**Professor**"},
+		{"id":"f90a0116c98c3f3c","type":"text","text":"**Any Interested Business Partner**","x":140,"y":-260,"width":250,"height":140},
+		{"id":"32fd4f095be64a48","type":"text","text":"**Collaboration Begins**","x":-480,"y":240,"width":250,"height":140}
 	],
 	"edges":[
-		{"id":"64d8e0bb84c0525d","fromNode":"97d94416406b7460","fromSide":"right","toNode":"9598b2d84ca53952","toSide":"left","label":"Goes on our \nwebsites and publishes their university course "}
+		{"id":"64d8e0bb84c0525d","fromNode":"97d94416406b7460","fromSide":"right","toNode":"9598b2d84ca53952","toSide":"left","label":"Comes to our \nwebsites and publishes their university course "},
+		{"id":"6478031d949751b4","fromNode":"f90a0116c98c3f3c","fromSide":"left","toNode":"9598b2d84ca53952","toSide":"right","label":"Comes to our platform \nand checks if publishes project satisfy the business "},
+		{"id":"92b71006660be179","fromNode":"9598b2d84ca53952","fromSide":"bottom","toNode":"32fd4f095be64a48","toSide":"top","label":"If there a match between **Professor** and **Business* "}
 	]
 }
