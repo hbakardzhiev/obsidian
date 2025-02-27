@@ -1,4 +1,4 @@
 - change the background of the introduction to white?
 - change the color of the `Professor` title to something that attracts more attention
 - add introduction slide 
-	- Potential question
+	- Potential hook
