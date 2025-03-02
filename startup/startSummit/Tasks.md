@@ -1,3 +1,4 @@
 - take the linkedin accelerators and add them to the big accelerators list
 - founders agreement add comments
+- find industry/government report for education
 - 
