@@ -27,3 +27,4 @@ veel geralen = veel oefenen
 drumstel -> drums
 
 flourel -> royale
+hel
