@@ -13,3 +13,9 @@ uitzicht: wat je kunt zien. panorama
 eenvoudig -> simple
 
 moelijk -> difficult
+
+school (скол)
+
+Vertel (разказваш)
+
+ik kan, 
