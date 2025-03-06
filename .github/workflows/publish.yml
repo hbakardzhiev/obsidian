@@ -1,0 +1,41 @@
+name: Publish Obsidian Vault to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault repository
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Clone Quartz
+        run: git clone https://github.com/jackyzha0/quartz.git
+
+      - name: Prepare Quartz content
+        run: rm -rf quartz/content/* && cp -r vault/* quartz/content/
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install Quartz dependencies
+        working-directory: quartz
+        run: npm install
+
+      - name: Build the site
+        working-directory: quartz
+        run: npx quartz build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: quartz/public
