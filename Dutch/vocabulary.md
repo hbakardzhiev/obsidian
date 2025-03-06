@@ -1,0 +1,2 @@
+gebied - area
+zweeft - gliding
