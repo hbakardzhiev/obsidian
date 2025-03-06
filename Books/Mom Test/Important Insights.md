@@ -1,10 +1,8 @@
-
 ### What you should do in an interview according to the `The Mom Test`?
 1) Talk about their life instead of your idea
 2) Ask about specifics in the past instead of generics or opinions about the future
 3) Talk less and listen more
 You should ask questions `that even your mom can’t lie to you about`.
-
 
 ### Bad questions
 - Do you think it's a good idea? 
@@ -57,7 +55,6 @@ You should ask questions `that even your mom can’t lie to you about`.
 	- This question is a bit of a crutch: you’ll discard it as you get better at asking good questions and as you get to know the industry.
 	- Rule of  thumb: **People want to help you, but they rarely do so unless you give them an excuse to do so**.
 
-
 # Avoiding Bad Data
 ### Things to watch out for
 1) Compliments
@@ -84,9 +81,7 @@ Not being able to answer these questions means that you’ve got a compliment in
 - “Do you think you…”
 - “Might you…”
 - “Could you see yourself…”
-
 - **Instead ask about the past and how are they solving it now?** 
 
 # The Pathos Problem
 - Once someone detects that your ego is on the line, they’ll give you fluffy mis-truths and extra compliments. Disregard that data and use The Mom Test to re-focus on the person, their life, and their goals
-- 2
