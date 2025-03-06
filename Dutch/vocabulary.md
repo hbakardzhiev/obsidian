@@ -19,3 +19,11 @@ school (скол)
 Vertel (разказваш)
 
 ik kan, 
+
+
+veel geralen = veel oefenen
+
+
+drumstel -> drums
+
+flourel -> royale
