@@ -1,4 +1,0 @@
-- Look into obsidian (explain how it works)
-- Brainstorm mvp (go through different options)
-- Quick Expectations Alignment
-- 
