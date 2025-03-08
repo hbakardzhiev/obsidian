@@ -1058,7 +1058,6 @@ The thesis aims to guide the efficient allocation of resources within the Web3 e
 
 ### 18.1 Robust Linear Regression Outcomes: Innovation Category\'s Influence on Transaction Volume
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------+
 | **Robust Linear Model Regression Results for Volume of Transactions (USD) with Innovation Category Level: Asset-Backed Cryptocurrency (Python Environment Output)** |                                   |
 |                                                                                                                                                                     |                                   |
 | Note: \* Indicates a statistically significant coefficient                                                                                                          |                                   |
