@@ -25,7 +25,7 @@
 - **aardig**: nice, kind
 - **vriendelijk**: friendly
 - **nu**: now (more formal than "nou")
-- **para`plu**: umbrella (corrected to **paraplu**)
+- **para`plu**: umbrella (corrected to **paraplu**j)
 - **sla**: lettuce
 - **zit**: sit (corrected from "стоя" which means "stand"; "zit" is from "zitten" - to sit)
 
