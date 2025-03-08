@@ -1,8 +1,8 @@
 ## General Terms
-- **licht**: light (corrected from "светлина" which is Bulgarian for "light")
-- **gek**: crazy, mad, angry (corrected from "ядосан" which means "angry" in Bulgarian; "gek" can mean "angry" but also "crazy")
+- **licht**: light 
+- **gek**: crazy, mad, angry
 - **wit**: white
-- **vet**: fat, grease (corrected from "мазнина"; can also mean "cool" in slang)
+- **vet**: fat, grease
 - **pret**: fun
 - **straat**: street
 - **water**: water
@@ -14,7 +14,7 @@
 - **taai**: tough, chewy
 - **groei**: growth
 - **mooi**: beautiful, nice
-- **nou**: now (corrected from "сега"; more informal than "nu")
+- **nou**: now
 - **blauw**: blue
 - **nieuw**: new
 - **sluw**: sly, cunning
@@ -24,10 +24,10 @@
 - **een**: a, an
 - **aardig**: nice, kind
 - **vriendelijk**: friendly
-- **nu**: now (more formal than "nou")
-- **para`plu**: umbrella (corrected to **paraplu**j)
+- **nu**: now 
+- **para'plu**: umbrella
 - **sla**: lettuce
-- **zit**: sit (corrected from "стоя" which means "stand"; "zit" is from "zitten" - to sit)
+- **zit**: sit 
 
 ## Animals
 - **dier**: animal
@@ -43,7 +43,7 @@
 
 ## Food and Objects
 - **peer**: pear
-- **poel**: pool, puddle (corrected from "басейн" which is "pool" in Bulgarian; "poel" is more a natural puddle)
+- **poel**: pool, puddle
 - **pot**: pot, jar
 - **potten**: pots, jars (plural)
 - **peen**: carrot
@@ -65,7 +65,7 @@
 
 ## Transportation
 - **schip**: ship
-- **boot**: boat (corrected from "кораб"; "boot" is smaller than "schip")
+- **boot**: boat
 - **bus**: bus
 - **bussen**: buses (plural)
 - **trein**: train
@@ -81,13 +81,13 @@
 - **ogen**: eyes
 - **blauwe ogen**: blue eyes
 - **groene ogen**: green eyes
-- **bruine ogen**: brown eyes (corrected from "bruine ogтъпen")
+- **bruine ogen**: brown eyes 
 - **grijze ogen**: gray eyes
 - **het haar**: the hair
 - **blond haar**: blonde hair
 - **rood haar**: red hair
 - **grijs haar**: gray hair
-- **donker haar**: dark hair (corrected from "donkel")
+- **donker haar**: dark hair 
 - **zwart haar**: black hair
 - **geen haar**: no hair
 - **krullen**: curls
