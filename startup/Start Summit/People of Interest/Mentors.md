@@ -14,4 +14,5 @@
 	- likes to discuss market opportunities
 - Joahne Filbin - https://www.linkedin.com/in/joanne-filbin/ (London Business SoE, Kingston and ETH)
 	- I co-led Globacap from zero to £2 million revenue, with 60+ employees, through 6 funding rounds & £26 million funding raised. 
-	- 
+	- Startup Founder & CXO ⭐ Board Advisor ⭐ Startup Coach ⭐ UKFintech Rising Star of the Year
+- 
