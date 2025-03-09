@@ -9,3 +9,7 @@
 	- In a world where change accelerates with every moment, progress remains our unwavering constant, illuminating the path to a brighter future!
 - Til Klein - https://www.linkedin.com/in/tilklein/ (Foudning partner at VC, **but focused on LQBTQ+**)
 	- "Born to disrupt"—that’s the thesis of identity.vc, Europe’s first venture capital fund backing LGBTQ+ founders 🚀 🦄 🏳️‍🌈. As General Partner and co-founder, I believe real innovation comes from challenging the norm. That’s why we back LGBTQ+ led startups, from pre-seed to Series A, across sectors in Europe and beyond.
+- Benjamin Iby - https://www.linkedin.com/in/benjamin-iby-aa62b5253/ (From VC, **but focusing on HealthTech**)
+	- Studied in Wien Uni, working on Fortino Capital
+	- likes to discuss market opportunities
+- 
