@@ -34,4 +34,14 @@
 - Mujib Bazhwal - https://www.linkedin.com/in/mujib-bazhwal/ 
 	- founder, VC experience
 	- also investor in startups
-- Pascal Stuerchler 
+- Pascal Stuerchler - https://www.linkedin.com/in/pascalstuerchler/ (Harvard business school)
+	- founder
+	- board member in multiple companies
+	- invests in DACH countries from pre-seed models in B2B companies in the following sectors:
+		- SaaS
+		- Cybersecurity
+		- Blockchain
+		- Deeptech
+		- IndustryTech
+		- CleanTech
+- 
