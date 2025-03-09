@@ -27,4 +27,6 @@
 	- angel investor
 	- fundraising and scaling strategies expert
 - Mar Navarro Montes - https://www.linkedin.com/in/mar-navarro-montes/ (Researcher at Berkeley, SigmaSquared Fellow, Ex Founder)
-	- 
+	- Helps founders expand to the US (VC style).
+	- Been in the Silicon Valley for 2 years
+- 
