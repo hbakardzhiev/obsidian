@@ -7,4 +7,5 @@
 	- During University, I co-founded a construction startup with friends, growing it from a simple idea to six-figure revenue within a year— and went on to double growth annually for the next 2 years
 - Mujib Bazhwal - https://www.linkedin.com/in/mujib-bazhwal/ (Supporting Founders. Building Ventures)
 	- In a world where change accelerates with every moment, progress remains our unwavering constant, illuminating the path to a brighter future!
-- 
+- Til Klein - https://www.linkedin.com/in/tilklein/ (Foudning partner at VC, **but focused on LQBTQ+**)
+	- "Born to disrupt"—that’s the thesis of identity.vc, Europe’s first venture capital fund backing LGBTQ+ founders 🚀 🦄 🏳️‍🌈. As General Partner and co-founder, I believe real innovation comes from challenging the norm. That’s why we back LGBTQ+ led startups, from pre-seed to Series A, across sectors in Europe and beyond.
