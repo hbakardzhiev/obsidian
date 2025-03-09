@@ -2,4 +2,4 @@
 	- Currently Founder & CEO at PlotSet.com
 	- ML Research Scientist, Entrepreneur
 	- publications: http://bit.ly/3YLIQsgCurrently
-- 
+- Fabian Dietz - https://www.linkedin.com/in/f4bian-dietz/ (TU Munich graduate )
