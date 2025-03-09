@@ -26,4 +26,5 @@
 - Alexander Fromm - (couldn't find his Lind) 
 	- angel investor
 	- fundraising and scaling strategies expert
-- 
+- Mar Navarro Montes - https://www.linkedin.com/in/mar-navarro-montes/ (Researcher at Berkeley, SigmaSquared Fellow, Ex Founder)
+	- 
