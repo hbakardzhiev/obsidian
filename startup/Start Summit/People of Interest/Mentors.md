@@ -1,0 +1,5 @@
+- Masoud Farivar - https://www.linkedin.com/in/mfarivar/ (Caltech graduate)
+	- Currently Founder & CEO at PlotSet.com
+	- ML Research Scientist, Entrepreneur
+	- publications: http://bit.ly/3YLIQsgCurrently
+- 
