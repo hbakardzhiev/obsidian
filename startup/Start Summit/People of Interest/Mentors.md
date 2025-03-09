@@ -29,4 +29,6 @@
 - Mar Navarro Montes - https://www.linkedin.com/in/mar-navarro-montes/ (Researcher at Berkeley, SigmaSquared Fellow, Ex Founder)
 	- Helps founders expand to the US (VC style).
 	- Been in the Silicon Valley for 2 years
+- Adrijana Daragon - https://www.linkedin.com/in/adrijana/ (Copenhagen Business School graduate)
+	- specializes in go to market and marketing strategies
 - 
