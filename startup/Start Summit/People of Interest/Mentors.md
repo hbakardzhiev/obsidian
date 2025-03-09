@@ -12,4 +12,6 @@
 - Benjamin Iby - https://www.linkedin.com/in/benjamin-iby-aa62b5253/ (From VC, **but focusing on HealthTech**)
 	- Studied in Wien Uni, working on Fortino Capital
 	- likes to discuss market opportunities
-- 
+- Joahne Filbin - https://www.linkedin.com/in/joanne-filbin/ (London Business SoE, Kingston and ETH)
+	- I co-led Globacap from zero to £2 million revenue, with 60+ employees, through 6 funding rounds & £26 million funding raised. 
+	- 
