@@ -18,4 +18,7 @@
 - Julian Palmers - https://www.linkedin.com/in/julian-palmers-7865b356/ (Tel Aviv uni)
 	- background in business administration
 	- interested in pre-seed stage and startup consulting
-- Karoly Angyl - https://www.linkedin.com/in/karoly-angyal/ ()
+- Karoly Angyl - https://www.linkedin.com/in/karoly-angyal/ 
+	- Company interested to help startup founders create their idea
+	- Not only money deals, but shares, convertible loans and potentially joint ventures
+- 
