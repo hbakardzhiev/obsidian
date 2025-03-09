@@ -5,4 +5,6 @@
 - Fabian Dietz - https://www.linkedin.com/in/f4bian-dietz/ (TU Munich graduate)
 	- Started as a professional skier, began coding during University and became an entrepreneur, then a trauma surgeon and now I’m the CEO and co-founder of Atenia AI. Maybe a little bit unconventional.
 	- During University, I co-founded a construction startup with friends, growing it from a simple idea to six-figure revenue within a year— and went on to double growth annually for the next 2 years
+- Mujib Bazhwal - https://www.linkedin.com/in/mujib-bazhwal/ (Supporting Founders. Building Ventures)
+	- In a world where change accelerates with every moment, progress remains our unwavering constant, illuminating the path to a brighter future!
 - 
