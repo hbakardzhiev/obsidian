@@ -21,4 +21,6 @@
 - Karoly Angyl - https://www.linkedin.com/in/karoly-angyal/ 
 	- Company interested to help startup founders create their idea
 	- Not only money deals, but shares, convertible loans and potentially joint ventures
-- 
+- Maja Rajic - https://www.linkedin.com/in/rajic-maja/ (Stasbourg uni Law)
+	- assist clients and the team in the field of tech contract law, intellectual property, and data protection as Associate in LEXR Law Switzerland
+	- 
