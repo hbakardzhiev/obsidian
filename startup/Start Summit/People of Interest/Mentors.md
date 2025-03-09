@@ -31,4 +31,7 @@
 	- Been in the Silicon Valley for 2 years
 - Adrijana Daragon - https://www.linkedin.com/in/adrijana/ (Copenhagen Business School graduate)
 	- specializes in go to market and marketing strategies
-- 
+- Mujib Bazhwal - https://www.linkedin.com/in/mujib-bazhwal/ 
+	- founder, VC experience
+	- also investor in startups
+- Pascal Stuerchler 
