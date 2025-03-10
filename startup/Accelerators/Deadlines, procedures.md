@@ -1,4 +1,5 @@
-| Accelerator | Deadline                               | What is needed   | Location requirements              | Notes                                                                                      |
-| ----------- | -------------------------------------- | ---------------- | ---------------------------------- | ------------------------------------------------------------------------------------------ |
-| Techstarts  | All passed, the only open is for Tokyo | Have not checked | Pretty sure it is on site in Tokyo | tailored towards **Deeptech, Fintech, Cleantech, and Climatetech.** so not suitable for us |
-| Greylock    |                                        |                  |                                    |                                                                                            |
+| Accelerator | Deadline                                              | What is needed   | Location requirements              | Notes                                                                                      |
+| ----------- | ----------------------------------------------------- | ---------------- | ---------------------------------- | ------------------------------------------------------------------------------------------ |
+| Techstarts  | All deadlines have passed. The only open is for Tokyo | Have not checked | Pretty sure it is on site in Tokyo | tailored towards **Deeptech, Fintech, Cleantech, and Climatetech.** so not suitable for us |
+| Greylock    | rolling applications                                  |                  |                                    |                                                                                            |
+|             |                                                       |                  |                                    |                                                                                            |
