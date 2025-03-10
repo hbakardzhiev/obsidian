@@ -1,4 +1,4 @@
-| Accelerator              | Deadline                       | What is needed | Location requirements | Notes |
-| ------------------------ | ------------------------------ | -------------- | --------------------- | ----- |
-| Creative Destruction Lab | Seems that we are incompatible | Not checked    | Not sure              |       |
-|                          |                                |                |                       |       |
+| Accelerator                  | Deadline                                                          | What is needed                                                                                  | Location requirements                        | Notes |
+| ---------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------- | ----- |
+| ~~Creative Destruction Lab~~ | ~~Seems that we are incompatible~~                                | ~~Not checked~~                                                                                 | ~~Not sure~~                                 |       |
+| MindCet                      | The program just finished so I don't expect soon new applications | Form not opened<br><br>1) Application form<br>2) Two interviews<br>3) Delivering a pitch online | there will be one week on-site in London, UK |       |
