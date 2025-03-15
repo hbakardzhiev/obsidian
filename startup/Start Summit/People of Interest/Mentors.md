@@ -56,4 +56,5 @@
 	- works as a marketing manager of StGallen (very big and very special business university)
 		- maybe can help us talk to some professors there 
 - Maurice Gaillard - https://www.linkedin.com/in/mauricegaillard/ (Geneva graduate)
-	- 
+	- Startup Program Leader EPFL (one of the best university in Switzerland)
+- 
