@@ -46,7 +46,7 @@
 		- CleanTech
 - Randolf 🐸 Schürmann - https://www.linkedin.com/in/randolf-schuermann/ (Angel investor in multiple companies)
 	- Angel Community: gemeinsame Frühphasen-Investments und breites Know-How Angel Investor (Full-Time) & Mentor (Pre-Seed) / Strategie & Produktentwicklung, Unterstützung beim Startup Aufbau
-- Gerlinde Boback - https://www.linkedin.com/in/ronny-abt-815347147/ (Wien uni graduate)
+- Gerlinde Boback - https://www.linkedin.com/in/gerlindeboback/ (Wien uni graduate)
 	- **vast HR experience**
 		- **Can potentially help us explore the HR portion of our app**
 - Stanislaw Grunstein - https://www.linkedin.com/in/stanislawgrunstein/ (LSE graduate)
