@@ -44,4 +44,16 @@
 		- Deeptech
 		- IndustryTech
 		- CleanTech
-- 
+- Randolf 🐸 Schürmann - https://www.linkedin.com/in/randolf-schuermann/ (Angel investor in multiple companies)
+	- Angel Community: gemeinsame Frühphasen-Investments und breites Know-How Angel Investor (Full-Time) & Mentor (Pre-Seed) / Strategie & Produktentwicklung, Unterstützung beim Startup Aufbau
+- Gerlinde Boback - https://www.linkedin.com/in/ronny-abt-815347147/ (Wien uni graduate)
+	- **vast HR experience**
+		- **Can potentially help us explore the HR portion of our app**
+- Stanislaw Grunstein - https://www.linkedin.com/in/stanislawgrunstein/ (LSE graduate)
+	- Organizational psychology 
+		- Can also help explore the HR portion of our app
+- Nils Tiedemann - https://www.linkedin.com/in/nils-tiedemann/ (Technical uni Dresden graduate)
+	- works as a marketing manager of StGallen (very big and very special business university)
+		- maybe can help us talk to some professors there 
+- Maurice Gaillard - https://www.linkedin.com/in/mauricegaillard/ (Geneva graduate)
+	- 
