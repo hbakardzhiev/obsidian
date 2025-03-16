@@ -1,5 +1,4 @@
 # Questions Investors Ask Startups
-
 Below is a comprehensive list of questions that investors (venture capitalists, angel investors, accelerators, and incubators) might ask startups during a pitch or due diligence process. These are categorized for clarity and include detailed sub-questions where relevant.
 
 ---
@@ -78,9 +77,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 60. **What’s your break-even point, and how long will it take to reach it?**
 
 ---
-
 ## Traction & Validation
-
 61. **What traction do you have so far (e.g., users, revenue, downloads, partnerships)?**
 62. **What’s your month-over-month growth rate in key metrics?**
 63. **What’s been your most significant milestone or achievement to date?**
@@ -93,9 +90,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 70. **What’s the biggest obstacle to accelerating your traction right now?**
 
 ---
-
 ## Go-to-Market Strategy
-
 71. **What’s your go-to-market (GTM) plan, step by step?**
 72. **How do you plan to acquire your first 100 or 1,000 customers?**
 73. **What marketing channels will you prioritize (e.g., SEO, paid ads, content)?**
@@ -109,9 +104,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 81. **What’s your geographic focus (local, national, global), and why?**
 
 ---
-
 ## Financials & Funding
-
 82. **What are your revenue projections for the next 1, 3, and 5 years?**
 83. **What are your key cost drivers (e.g., COGS, marketing, salaries)?**
 84. **What’s your current monthly burn rate, and how has it changed over time?**
@@ -127,9 +120,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 94. **What are the biggest assumptions in your financial projections?**
 
 ---
-
 ## Risks & Challenges
-
 95. **What’s the biggest risk to your business, and how will you mitigate it?**
 96. **How will you handle competition that copies your idea?**
 97. **What happens if a key team member leaves?**
@@ -138,9 +129,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 100. **What’s your contingency plan if this funding round fails?**
 
 ---
-
 ## Vision & Exit Strategy
-
 101. **What’s your long-term vision for the company in 5-10 years?**
 102. **How do you see your company impacting the industry or the world?**
 103. **Are you building to sell, go public, or stay independent? Why?**
@@ -150,9 +139,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 107. **What legacy do you want to leave with this venture?**
 
 ---
-
 ## Investor Fit & Ask
-
 108. **Why are you pitching to us specifically? How do we align with your needs?**
 109. **Beyond capital, what value do you expect from us (e.g., network, expertise)?**
 110. **How much ownership are you offering for this investment?**
@@ -162,9 +149,7 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 114. **Are there other investors already committed to this round?**
 
 ---
-
 ## Miscellaneous
-
 115. **What keeps you up at night about this business?**
 116. **What’s the most contrarian belief you hold about your industry?**
 117. **How do you stay motivated through setbacks?**
@@ -173,5 +158,3 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 120. **What’s the worst-case scenario, and how would you handle it?**
 
 ---
-
-This list covers the full spectrum of inquiries startups might face. Each section probes a critical aspect of the business, from team dynamics to financial viability and long-term strategy. Tailor your answers to the specific investor’s focus, and back them up with data where possible. Let me know if you'd like further elaboration on any category!
