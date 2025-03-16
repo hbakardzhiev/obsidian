@@ -85,9 +85,9 @@ Below is a comprehensive list of questions that investors (venture capitalists, 
 65. **Do you have any paying customers? If so, how many and how much revenue?**
 66. **What’s your churn rate, and how are you addressing it?**
 67. **Have you secured any notable partnerships or letters of intent?**
-68. **What’s your Net Promoter Score (NPS) or other customer satisfaction metric?**
-69. **How repeatable is your sales or acquisition process?**
-70. **What’s the biggest obstacle to accelerating your traction right now?**
+j68. **What’s your Net Promoter Score (NPS) or other customer satisfaction metric?**
+68. **How repeatable is your sales or acquisition process?**
+69. **What’s the biggest obstacle to accelerating your traction right now?**
 
 ---
 ## Go-to-Market Strategy
