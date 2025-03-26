@@ -34,5 +34,3 @@
 | HR Assistant                                       | Choice Hotels EMEA     | Amsterdam, North Holland, Netherlands | 1 week ago  |
 | HR Assistant                                       | Amazon                 | Rozenburg, South Holland, Netherlands | 2 weeks ago |
 | HR-coördinator                                     | Accor                  | Amsterdam Area                        | 1 week ago  |
-
-##
