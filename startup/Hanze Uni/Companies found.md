@@ -1,4 +1,4 @@
-- Found using HR intern with Netherlands filter
+## Found using HR intern with Netherlands filter
 
 | index | Job Title                                          | Company Name                       | Location                              | Time Posted | Num Applicants                   |
 | ----- | -------------------------------------------------- | ---------------------------------- | ------------------------------------- | ----------- | -------------------------------- |
@@ -17,3 +17,4 @@
 | 8     | Human Resource Intern                              | Apollo Tyres Ltd                   | Amsterdam, North Holland, Netherlands | 6 days ago  |                                  |
 | 2     | Human Resources Trainee \(from November 2025\)     | ANdAZ                              | Amsterdam, North Holland, Netherlands | 1 week ago  | Be among the first 25 applicants |
 
+## Found 
