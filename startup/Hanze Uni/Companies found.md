@@ -17,11 +17,11 @@
 | Human Resource Intern                              | Apollo Tyres Ltd                   | Amsterdam, North Holland, Netherlands | 6 days ago  |
 | Human Resources Trainee \(from November 2025\)     | ANdAZ                              | Amsterdam, North Holland, Netherlands | 1 week ago  |
 
+## Found using Human Resources traineeship with Netherlands filter
 
-
-| Human Resources Generalist                         | TEKsystems             | Amsterdam, North Holland, Netherlands | 2 weeks ago |
+| Job Title                                          | Company Name           | Location                              | Time Posted |
 | -------------------------------------------------- | ---------------------- | ------------------------------------- | ----------- |
-|                                                    |                        |                                       |             |
+| Human Resources Generalist                         | TEKsystems             | Amsterdam, North Holland, Netherlands | 2 weeks ago |
 | Human Resources Specialist                         | Russell Tobin          | Amsterdam, North Holland, Netherlands | 2 weeks ago |
 | Human Resources Generalist                         | Pentasia               | Haarlem, North Holland, Netherlands   | 1 week ago  |
 | People & Culture Operations Specialist \(f/m/d\)   | Patagonia              | Amsterdam, North Holland, Netherlands | 4 days ago  |
@@ -34,3 +34,5 @@
 | HR Assistant                                       | Choice Hotels EMEA     | Amsterdam, North Holland, Netherlands | 1 week ago  |
 | HR Assistant                                       | Amazon                 | Rozenburg, South Holland, Netherlands | 2 weeks ago |
 | HR-coördinator                                     | Accor                  | Amsterdam Area                        | 1 week ago  |
+
+##
