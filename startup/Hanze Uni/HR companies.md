@@ -34,3 +34,12 @@
 | HR Assistant                                       | Choice Hotels EMEA     | Amsterdam, North Holland, Netherlands | 1 week ago  |
 | HR Assistant                                       | Amazon                 | Rozenburg, South Holland, Netherlands | 2 weeks ago |
 | HR-coördinator                                     | Accor                  | Amsterdam Area                        | 1 week ago  |
+
+
+# Who to contact from which firm
+
+| Company | URL                                                                                                                                                                                 |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tencent | https://www.linkedin.com/in/megha-malviya-36256916/ (HR company)<br>https://www.linkedin.com/in/rui-liu-van-groot-battav%C3%A9-mba-cpa-4a1b3294/ (Global Internal  Control Manager) |
+|         |                                                                                                                                                                                     |
+|         |                                                                                                                                                                                     |
