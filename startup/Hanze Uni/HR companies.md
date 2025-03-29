@@ -38,8 +38,8 @@
 
 # Who to contact from which firm
 
-| Company | URL                                                                                                                                                                                 |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tencent | https://www.linkedin.com/in/megha-malviya-36256916/ (HR company)<br>https://www.linkedin.com/in/rui-liu-van-groot-battav%C3%A9-mba-cpa-4a1b3294/ (Global Internal  Control Manager) |
-|         |                                                                                                                                                                                     |
-|         |                                                                                                                                                                                     |
+| Company                   | URL                                                                                                                                                                                 |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tencent                   | https://www.linkedin.com/in/megha-malviya-36256916/ (HR company)<br>https://www.linkedin.com/in/rui-liu-van-groot-battav%C3%A9-mba-cpa-4a1b3294/ (Global Internal  Control Manager) |
+| Tata Consultancy Services | https://www.linkedin.com/in/sritanu-satapathy/ (Program manager)<br>https://www.linkedin.com/in/sritanu-satapathy/ (Graduate talent Program manag)                                  |
+|                           |                                                                                                                                                                                     |
