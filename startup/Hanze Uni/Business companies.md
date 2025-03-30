@@ -26,4 +26,22 @@
 | 82    | Senior Business Manager                                   | Avertim Netherlands                | Amsterdam, North Holland, Netherlands | 1 week ago  |                                  |
 
 
-#
+## Found using Business Development with Netherlands as filters
+
+| index | Job Title                                      | Company Name              | Location                               | Time Posted | Num Applicants                   |
+| ----- | ---------------------------------------------- | ------------------------- | -------------------------------------- | ----------- | -------------------------------- |
+| 25    | Global Business Development Manager            | eStoreLabs                | Vianen, Utrecht, Netherlands           | 2 weeks ago | Be among the first 25 applicants |
+| 6     | Business Analyst                               | Capgemini                 | Utrecht, Netherlands                   | 5 days ago  | Over 200 applicants              |
+| 28    | Business Development Manager Detachering       | Home of Recruitment       | The Randstad, Netherlands              | 1 week ago  | Be among the first 25 applicants |
+| 49    | Head of Business Development                   | Morpheus Talent Solutions | The Randstad, Netherlands              | 1 day ago   |                                  |
+| 55    | Business Development Manager Detachering       | Home of Recruitment       | The Randstad, Netherlands              | 1 week ago  | Be among the first 25 applicants |
+| 43    | Director of Business Development               | Lineage                   | Rotterdam, South Holland, Netherlands  | 6 days ago  |                                  |
+| 4     | Business Development Manager                   | Evotix                    | Netherlands                            | 1 week ago  |                                  |
+| 29    | Country Director                               | Refined Networks          | Netherlands                            | 4 days ago  |                                  |
+| 0     | Business Development Manager, VIP Partnerships | Crypto.com                | Amsterdam, North Holland, Netherlands  | 2 weeks ago |                                  |
+| 2     | Country Manager                                | Settly                    | Amsterdam, North Holland, Netherlands  | 2 weeks ago |                                  |
+| 39    | Business Development Manager                   | Jak Consultancy           | Amsterdam, North Holland, Netherlands  | 2 weeks ago | Be among the first 25 applicants |
+| 41    | Evergreen position - Business Development      | Beam                      | Amsterdam, North Holland, Netherlands  | 1 month ago | Be among the first 25 applicants |
+| 44    | Senior Business Development Manager            | Scaler                    | Amsterdam, North Holland, Netherlands  | 1 week ago  | Be among the first 25 applicants |
+| 5     | Business Development Manager                   | Acolad group              | Amstelveen, North Holland, Netherlands | 1 month ago | Be among the first 25 applicants |
+| 38    | Retail New Business Development Consultant     | NielsenIQ                 | Amstelveen, North Holland, Netherlands | 2 weeks ago |                                  |
