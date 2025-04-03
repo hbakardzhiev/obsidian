@@ -16,3 +16,5 @@ vestandig - smart
 verstand - brain
 weinig - few
 voorkommen - avoids/prevents
+aanpakken - tackle
+kweken - to grow, to cultivate 
