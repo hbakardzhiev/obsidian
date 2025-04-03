@@ -4,3 +4,4 @@ grens - border
 gewone - ordinary 
 ruistige - noisy
 uitgestrekt - stretched out
+duinen - dunes
