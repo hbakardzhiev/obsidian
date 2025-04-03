@@ -5,3 +5,5 @@ gewone - ordinary
 ruistige - noisy
 uitgestrekt - stretched out
 duinen - dunes
+strandwallen - beach wall
+voortdurend - continue 
