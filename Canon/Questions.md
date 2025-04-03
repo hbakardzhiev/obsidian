@@ -6,9 +6,9 @@
 
 
 ## For Marcel
-- How will our manufacturing change due to the recent tariffs imposed by the new administration?
-	- Do we have plans to open an entity there or that is not in the planning at all?
-- How will our pricing of our products change in the US?
-	- Will we change our business model to increase the price of the software license (which is not tarrified ) and take a loss on the price of the engine (because of the tariff)?
-	- Currently, we make quite a lot of our profit on the supplies (ink and media; if i am not wrong) and that cannot be offset in a smart way, so what are we doing with that?
-- This is a bit of a speculation but I think that the plan of the new US administration is to make the US dollar cheaper, if that is the case are we proactively buying option contracts to protect our us revenue?  
+1. How will the recent tariffs imposed by the new U.S. administration impact our manufacturing strategy?
+   - Are we considering establishing a new entity in the U.S. to mitigate these effects, or is that not currently under consideration?
+2. What adjustments do we anticipate for our U.S. product pricing in response to these tariffs?
+   - Are we exploring a shift in our business model, such as increasing software license fees (which are tariff-exempt) to offset potential losses on hardware tariffs price increases?
+   - Given that a significant portion of our profit comes from supplies like ink and media, how are we planning to address the challenges tariffs might pose to this revenue stream?
+3. Looking ahead, if the new U.S. administration’s policies lead to a weaker U.S. dollar—which seems plausible—are we taking proactive steps to hedge against currency fluctuations, such as purchasing option contracts to protect our U.S. revenue?  
