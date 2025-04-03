@@ -11,4 +11,8 @@ ontwikkeling - development
 invloed - influence
 dichtbij - near
 kust - coast
-indrukwekkend - impressive 
+indrukwekkend - impressive
+vestandig - smart
+verstand - brain
+weinig - few
+voorkommen - avoids/prevents
