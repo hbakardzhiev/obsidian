@@ -6,4 +6,9 @@ ruistige - noisy
 uitgestrekt - stretched out
 duinen - dunes
 strandwallen - beach wall
-voortdurend - continue 
+voortdurend - continue
+ontwikkeling - development
+invloed - influence
+dichtbij - near
+kust - coast
+indrukwekkend - impressive 
