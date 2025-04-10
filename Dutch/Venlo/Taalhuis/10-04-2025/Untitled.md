@@ -23,3 +23,5 @@ keer - occasion/time
 tuinieren - gardening
 juiste materialen - good materials
 hoef, hoeven - nodig hebben
+aanschaffen - kopen
+je zel - you will
