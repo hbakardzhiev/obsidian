@@ -9,3 +9,7 @@ nodig - necessary
 vechten - battle, fight
 bemesting - fertilization
 zaaien - to sow
+oogst - harvest
+rijtjes - rows
+kolom - column
+plagen - plag
