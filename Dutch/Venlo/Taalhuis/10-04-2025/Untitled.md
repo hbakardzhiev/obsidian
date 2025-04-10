@@ -20,3 +20,6 @@ bak -
 aanleggen - make
 zadjes - seeds
 keer - occasion/time
+tuinieren - gardening
+juiste materialen - good materials
+hoef, hoeven - nodig hebben
