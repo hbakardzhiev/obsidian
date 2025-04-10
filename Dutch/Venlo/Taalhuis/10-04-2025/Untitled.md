@@ -15,3 +15,4 @@ kolom - column
 plagen - plagues
 onkruid - weed
 opeten - eat
+bak - 
