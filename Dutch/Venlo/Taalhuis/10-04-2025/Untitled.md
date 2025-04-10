@@ -16,3 +16,5 @@ plagen - plagues
 onkruid - weed
 opeten - eat
 bak - 
+
+aanleggen - make
