@@ -56,26 +56,11 @@
     - English: After sowing, fertilization is sometimes necessary.
 5. Dutch: En dus planten we alles in kolommen voor een nette tuin.  
     - English: And so we plant everything in columns for a neat garden.
-    
+
 ## Dealing with Garden Challenges
-
-
 - Dutch: Een slak kan veel blaadjes opeten in één nacht.  
-    English: A snail can eat up a lot of leaves in one night.
-    
+	- English: A snail can eat up a lot of leaves in one night.
 - Dutch: Plagen maken het tuinieren moeilijk elk jaar.  
-    English: Pests make gardening difficult every year.
-    
+    - English: Pests make gardening difficult every year.
 - Dutch: Je moet vechten tegen onkruid op een slimme manier.  
-    English: You have to fight against weeds in a smart way.
-    
-
-Practical Tips for Learning
-
-1. Use in Daily Life: Try using words like zaaien or oogst when talking about food or plants.  
-    Example: Dutch: Vandaag ga ik zadjes zaaien in mijn tuin.  
-    English: Today, I will sow seeds in my garden.
-    
-2. Group Similar Words: Link bemesting, voeding, and zadjes to remember gardening steps.
-    
-3. Practice Speaking: Repeat sentences like “Ik hoef geen slakken in mijn tuin” (I don’t need snails in my garden) to build confidence.
+    - English: You have to fight against weeds in a smart way.
