@@ -37,13 +37,13 @@
 	- bijvoorbeeld - for example
 		- Example: "Ik hou van fruit, bijvoorbeeld appels." (I love fruit, for example, apples.)
 	- ontwikkeling - development
-Example: "De ontwikkeling van de stad is snel." (The development of the city is fast.)
-invloed - influence
-Example: "Zijn woorden hebben veel invloed." (His words have a lot of influence.)
-verstand - mind/brain
-Example: "Ze heeft een scherp verstand." (She has a sharp mind.)
-voorkomen - prevent/avoid
-Example: "We moeten ongelukken voorkomen." (We must prevent accidents.)
+		- Example: "De ontwikkeling van de stad is snel." (The development of the city is fast.)
+	- invloed - influence
+		- Example: "Zijn woorden hebben veel invloed." (His words have a lot of influence.)
+	- verstand - mind/brain
+		- Example: "Ze heeft een scherp verstand." (She has a sharp mind.)
+	- voorkomen - prevent/avoid
+		- Example: "We moeten ongelukken voorkomen." (We must prevent accidents.)
 5. Location and Proximity
-dichtbij - near
-Example: "Het strand is dichtbij ons huis." (The beach is near our house.)
+	- dichtbij - near
+		- Example: "Het strand is dichtbij ons huis." (The beach is near our house.)
