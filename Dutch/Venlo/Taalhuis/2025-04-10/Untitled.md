@@ -47,7 +47,7 @@
     - English: You don’t need to buy expensive stuff.
 #### Example Sentences for Gardening
 1. Dutch: Slakken eten vaak de blaadjes van jonge planten op.  
-k    - English: Snails often eat the leaves of young plants.
+    - English: Snails often eat the leaves of young plants.
 2. Dutch: Je zult onkruid moeten verwijderen voor een goede oogst.  
     - English: You will have to remove weeds for a good harvest.
 3. Dutch: Gebruik een bak om de zaadjes te laten kiemen.  
