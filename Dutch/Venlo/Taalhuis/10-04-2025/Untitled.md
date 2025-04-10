@@ -25,3 +25,5 @@ juiste materialen - good materials
 hoef, hoeven - nodig hebben
 aanschaffen - kopen
 je zel - you will
+slakken - snails
+slak - snail
