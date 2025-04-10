@@ -6,3 +6,6 @@ manier - way/manner
 en dus - so
 juist - just 
 nodig - necessary
+vechten - battle, fight
+bemesting - fertilization
+zaaien - to sow
