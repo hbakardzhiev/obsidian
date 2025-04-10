@@ -18,3 +18,5 @@ opeten - eat
 bak - 
 
 aanleggen - make
+zadjes - seeds
+keer - occasion/time
