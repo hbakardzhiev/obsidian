@@ -1,1 +1,2 @@
 bijna - almost
+voeding - feed
