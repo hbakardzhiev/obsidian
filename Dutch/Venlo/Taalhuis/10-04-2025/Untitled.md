@@ -12,4 +12,6 @@ zaaien - to sow
 oogst - harvest
 rijtjes - rows
 kolom - column
-plagen - plag
+plagen - plagues
+onkruid - weed
+opeten - eat
