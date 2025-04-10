@@ -33,8 +33,8 @@
 - aanleggen - to create, to lay out (e.g., a garden)  
     - Dutch: We gaan een nieuwe tuin aanleggen in de lente.  
     - English: We will create a new garden in the spring.
-- zadjes - seeds (informal, diminutive of "zaden")  
-    - Dutch: De zadjes beginnen al te groeien na een keer water geven.  
+- zaadjes - seeds (informal, diminutive of "zaden")  
+    - Dutch: De zaadjes beginnen al te groeien na een keer water geven.  
     - English: The seeds are already starting to grow after one time of watering.
 - tuinieren - gardening  
     - Dutch: Tuinieren is een leuke manier om buiten te zijn.  
@@ -47,10 +47,10 @@
     - English: You don’t need to buy expensive stuff.
 #### Example Sentences for Gardening
 1. Dutch: Slakken eten vaak de blaadjes van jonge planten op.  
-    - English: Snails often eat the leaves of young plants.
+k    - English: Snails often eat the leaves of young plants.
 2. Dutch: Je zult onkruid moeten verwijderen voor een goede oogst.  
     - English: You will have to remove weeds for a good harvest.
-3. Dutch: Gebruik een bak om de zadjes te laten kiemen.  
+3. Dutch: Gebruik een bak om de zaadjes te laten kiemen.  
     - English: Use a container to let the seeds germinate.
 4. Dutch: Na het zaaien is bemesting soms nodig.  
     - English: After sowing, fertilization is sometimes necessary.
