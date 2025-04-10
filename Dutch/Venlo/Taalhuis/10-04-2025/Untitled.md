@@ -1,2 +1,5 @@
 bijna - almost
-voeding - feed
+voeding - nurture
+vermoeiende - tiring
+moeilijke - difficult
+
