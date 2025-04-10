@@ -27,3 +27,4 @@ aanschaffen - kopen
 je zel - you will
 slakken - snails
 slak - snail
+blaadjes - leaves
