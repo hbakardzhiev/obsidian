@@ -1,4 +1,6 @@
 verbindend 
 brengen - 
 gevierd 
-bruisende - 
+bruisende - live
+verbinden - to connect
+verbindend feest - festive event that aims to keep you 
