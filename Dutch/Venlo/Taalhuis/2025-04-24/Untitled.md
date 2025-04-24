@@ -13,3 +13,4 @@ regeerperiode: de tijd waarin Wilhelmina koningin was.
 aantreden: het moment toen ze het ambt van Koningin aanvaarde.
 Eren: respecteren, waarderen, prijzen.
 verplaatsen: verzetten, verschuiven
+verschoven - shift, displaced
