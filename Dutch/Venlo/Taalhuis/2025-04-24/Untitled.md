@@ -14,3 +14,8 @@ aantreden: het moment toen ze het ambt van Koningin aanvaarde.
 Eren: respecteren, waarderen, prijzen.
 verplaatsen: verzetten, verschuiven
 verschoven - shift, displaced
+vervroeg - early, advanced
+
+verschoven: verplaatst naar 1 dag eerder.
+
+verschuiven: verleden tijd=verschoven.
