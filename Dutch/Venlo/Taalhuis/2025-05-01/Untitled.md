@@ -1,0 +1,2 @@
+vrijheid - freedom
+geallieerden - 
