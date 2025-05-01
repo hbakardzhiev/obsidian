@@ -8,3 +8,7 @@ bevrijding - liberation
 uitnodigen - invite
 vieren - 
 
+slachtoffers - victims
+soldaten - soldier
+letterlijk - literally
+bezinning - 
