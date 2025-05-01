@@ -11,4 +11,5 @@ vieren -
 slachtoffers - victims
 soldaten - soldier
 letterlijk - literally
-bezinning - 
+bezinning - memories
+omgekommen - perish
