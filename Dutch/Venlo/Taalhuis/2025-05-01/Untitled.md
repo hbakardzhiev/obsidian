@@ -6,3 +6,4 @@ bevrijd - liberated
 herdenken - think about what has happened in the past
 bevrijding - liberation
 uitnodigen - invite
+vieren - 
