@@ -1,6 +1,0 @@
-- Strong Partnerships
-	- educational institutions to ensure integration into curricula and with businesses to provide case studies and projects.
-- Innovative Features
-	- matchmaking, offering tools for project management, real-time collaboration, and data analytics could make the platform indispensable
-- Scalable Business Model
-	- can adapt to different educational systems and business needs

@@ -1,9 +1,0 @@
-- [x] take the linkedin accelerators and add them to the big accelerators list
-- [ ] founders agreement add comments
-- [ ] find industry/government report for education
-- [x] find the best digital (free) business card
-	- [x] linktree
-	- [ ] qr code generate
-- [ ] identify the people that we want to talk to from the list of start summit
-- [ ] Competitor analysis
-	- [ ] detailed analysis
