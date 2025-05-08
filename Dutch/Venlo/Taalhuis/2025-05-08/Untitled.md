@@ -17,4 +17,11 @@ druk in de straat - very busy on the street (for a specific street)
 druk op de straat - very busy in general on the streets around
 bevrijdings - liberation
 evenement - 
-jaarlijks - yearly
+jaarlijks - yearly (every year)
+gehouden een festival - hold/throw a party
+podia - podium
+draait - 
+ambassadeurs - 
+gevoerd
+diverse - 
+allerlei - different 
