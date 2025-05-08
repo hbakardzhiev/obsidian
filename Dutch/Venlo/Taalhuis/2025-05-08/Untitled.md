@@ -22,7 +22,8 @@ gehouden een festival - hold/throw a party
 podia - podium
 draait - 
 ambassadeurs - 
-gevoerd
-diverse - 
+langst gevoerd - transported from one place to another 
+diverse - different
 allerlei - different 
-ambassadeurs - embassadors
+ambassadeurs - ambassadors
+langst - between
