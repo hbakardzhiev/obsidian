@@ -5,4 +5,11 @@ verdedigen - defend
 vanzelfsprekend - obvious
 kwijt zijn - lose 
 zomaar - instantly
-anders - 
+anders - different, otherwise
+wereldwijd - worldwide
+krachten - forces
+macht - power
+machtiger - more powerful
+belangrijk - important
+stem - voice
+
