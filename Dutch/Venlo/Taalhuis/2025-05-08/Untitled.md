@@ -27,3 +27,6 @@ diverse - different
 allerlei - different 
 ambassadeurs - ambassadors
 langst - between
+onvrijheid - not freedom
+aandacht - attention
+juist - 
