@@ -30,3 +30,5 @@ langst - between
 onvrijheid - not freedom
 aandacht - attention
 juist - 
+geleden - past
+einde kwam - the end came
