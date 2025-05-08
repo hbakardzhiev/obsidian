@@ -38,3 +38,4 @@ rondom - all around
 uitgezet - turned off
 verdiepen - deepen
 strijd - conflict
+omarmen - embrace
