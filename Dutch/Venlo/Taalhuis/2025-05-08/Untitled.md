@@ -1,2 +1,5 @@
 voorstelling - performance (on a )
-vrede - 
+vrede - peace
+koesteren - 
+verdedigen - defend 
+vanzelfsprekend - obvious
