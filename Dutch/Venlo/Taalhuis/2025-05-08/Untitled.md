@@ -34,3 +34,7 @@ geleden - past
 einde kwam - the end came
 verschrikkelijke - horrible
 vrolijk - happy
+rondom - all around
+uitgezet - turned off
+verdiepen - deepen
+strijd - conflict
