@@ -25,3 +25,4 @@ ambassadeurs -
 gevoerd
 diverse - 
 allerlei - different 
+ambassadeurs - embassadors
