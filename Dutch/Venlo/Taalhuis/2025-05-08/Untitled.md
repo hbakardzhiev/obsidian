@@ -12,4 +12,5 @@ macht - power
 machtiger - more powerful
 belangrijk - important
 stem - voice
-
+onder druk - under pressure
+druk in de straat - very busy on the street
