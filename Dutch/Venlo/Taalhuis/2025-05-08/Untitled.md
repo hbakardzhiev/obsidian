@@ -32,3 +32,5 @@ aandacht - attention
 juist - 
 geleden - past
 einde kwam - the end came
+verschrikkelijke - horrible
+vrolijk - happy
