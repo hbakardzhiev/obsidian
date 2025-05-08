@@ -15,3 +15,6 @@ stem - voice
 onder druk - under pressure
 druk in de straat - very busy on the street (for a specific street)
 druk op de straat - very busy in general on the streets around
+bevrijdings - liberation
+evenement - 
+jaarlijks - yearly
