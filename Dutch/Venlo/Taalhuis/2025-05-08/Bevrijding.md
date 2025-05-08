@@ -64,39 +64,25 @@
 # Chapter 6: Time and History
 - **langs** - along  
     _Example_: Er was een lange vriendschap langs de twee families. (There was a long friendship along the two families.)
-    
 - **vervoerd** - transported  
     _Example_: De goederen werden vervoerd naar de haven. (The goods were transported to the harbor.)
-    
 - **geleden** - ago  
     _Example_: Tien jaar geleden verhuisde ik naar Nederland. (Ten years ago, I moved to the Netherlands.)
-    
 - **einde** - end  
     _Example_: Toen de oorlog voorbij was, kwam het einde. (When the war was over, the end came.)
-    
-
 # Chapter 7: Emotions and Reflection
-
 - **aandacht** - attention  
     _Example_: De leraar vroeg om onze aandacht. (The teacher asked for our attention.)
-    
 - **vrolijk** - cheerful  
     _Example_: De kinderen waren vrolijk tijdens het feest. (The children were cheerful during the party.)
-    
 - **verschrikkelijk** - terrible  
     _Example_: Het was een verschrikkelijk dag vol slecht nieuws. (It was a terrible day full of bad news.)
-    
 - **verdiepen** - to deepen  
     _Example_: Hij wilde zich verdiepen in de geschiedenis. (He wanted to deepen his knowledge of history.)
-    
-
 # Chapter 8: Miscellaneous
-
 - **wereldwijd** - worldwide  
     _Example_: Het bedrijf opereert wereldwijd in meer dan 50 landen. (The company operates worldwide in over 50 countries.)
-    
 - **juist** - exactly  
     _Example_: Dat is precies de juiste keuze. (That is exactly the right choice.)
-    
 - **draaien** - to run/operate  
     _Example_: De organisatie draait volledig op vrijwilligers. (The organization runs entirely on volunteers.)
