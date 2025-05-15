@@ -22,3 +22,12 @@ ervaren - to tempt/seduce
 ervaren - experience
 het doel - the objective
 winst - profit/gain
+
+kranten 
+tijdschriften - 
+reclamefolders - 
+snelweg
+billboards
+televisieadvertensities
+erg nog meer
+beurzen 
