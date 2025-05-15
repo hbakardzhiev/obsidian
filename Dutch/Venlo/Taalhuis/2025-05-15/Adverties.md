@@ -23,11 +23,15 @@ ervaren - experience
 het doel - the objective
 winst - profit/gain
 
-kranten 
-tijdschriften - 
-reclamefolders - 
+kranten - newspaper
+tijdschriften - magazine
+reclamefolders - promotion folder
+ik maak reclame - i promote
+advertorials - 
 snelweg
 billboards
 televisieadvertensities
 erg nog meer
 beurzen 
+zoals
+bijvoorbeeld - for example
