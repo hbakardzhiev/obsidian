@@ -4,7 +4,8 @@ voorbeeld - for example
 ervan - 
 verleiden -  
 deelnemen - participate
-meestal
+meestal - often
+vaak - often 
 diensten - services
 bestaan 
 echter - 
@@ -12,9 +13,10 @@ winst
 gebeurtenissen - 
 kondigen 
 huwelijk
-lezer - 
+lezer - reader
 doel - goal
 bedoel - mean
 bepaalde - specific
 ervaren - to tempt/seduce
 ervaren - experience
+het doel - the objective
