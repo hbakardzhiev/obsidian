@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c216323ac647934c","x":-360,"y":-200,"width":250,"height":210,"type":"text","text":"Block #1\n---\n- Transaction #1\n- Transaction #2\n- Transaction #9999\n"},
+		{"id":"f37a55ddd058c8c2","x":0,"y":-200,"width":250,"height":210,"type":"text","text":"Block #2\n---\n- Transaction #1\n- Transaction #2\n- Transaction #9999"}
+	],
+	"edges":[
+		{"id":"7eb4a980fd21aea9","fromNode":"c216323ac647934c","fromSide":"right","toNode":"f37a55ddd058c8c2","toSide":"left"}
+	]
+}
