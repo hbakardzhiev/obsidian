@@ -2,7 +2,7 @@ Waar kom je advertenties tegen? - Where do you come across advertisement?
 trouwen - wedding
 voorbeeld - for example
 ervan - 
-verleiden 
+verleiden -  
 deelnemen - participate
 meestal
 diensten - services
@@ -15,3 +15,6 @@ huwelijk
 lezer - 
 doel - goal
 bedoel - mean
+bepaalde - specific
+ervaren - to tempt/seduce
+ervaren - experience
