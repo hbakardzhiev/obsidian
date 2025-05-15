@@ -12,7 +12,8 @@ echter -
 winst
 gebeurtenissen - 
 kondigen 
-huwelijk
+huwelijk - wedding
+trouwen - wedding
 lezer - reader
 doel - goal
 bedoel - mean
@@ -20,3 +21,4 @@ bepaalde - specific
 ervaren - to tempt/seduce
 ervaren - experience
 het doel - the objective
+winst - profit/gain
