@@ -5,4 +5,7 @@ ervan
 verleiden 
 deelnemen - participate
 meestal
-diensten 
+diensten - services
+bestaan 
+echter - 
+winst
