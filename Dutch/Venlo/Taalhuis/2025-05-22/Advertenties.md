@@ -10,4 +10,7 @@ afdrukken - print
 nieuwsblad - newspaper
 bladen - leaves, paper
 vel - sheet
-bereikt - toreach
+bereiken - to reach
+betrokken - involved
+doelgroup - target group
+eerder - earlier
