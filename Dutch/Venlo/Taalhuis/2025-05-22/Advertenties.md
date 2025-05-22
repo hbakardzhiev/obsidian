@@ -23,3 +23,4 @@ trekken - attract
 aandacht - attention
 ik bestaand - i exist
 behouden - keep
+ervaren - experience
