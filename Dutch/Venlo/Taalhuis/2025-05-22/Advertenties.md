@@ -5,4 +5,4 @@ ingezonden - send
 inzenden - to send
 mededeling - message
 dagelijke - daily
-weeklijk
+wekelijkse - weekly
