@@ -15,3 +15,5 @@ betrokken - involved
 doelgroup - target group
 eerder - earlier
 brievenbus - letterbox
+huis aan huis - from house to house 
+verspreid - spread/distributed
