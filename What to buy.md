@@ -1,11 +1,11 @@
-- [x] cheese
+- [ ] cheese
 - [ ] vegetables
-- [ ] lentils
-- [x] yogurth
-- [x] Spaghetti
-- [x] mozarela
+- [x] lentils
+- [ ] yogurth
+- [ ] Spaghetti
+- [ ] mozarela
 - [x] frambozen x 3
-- [x] rind
+- [ ] rind
 - [ ] fish
-- [x] fruit
-- [x] tomato sauce
+- [ ] fruit
+- [ ] tomato sauce
