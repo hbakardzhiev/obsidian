@@ -1,4 +1,4 @@
-- [ ] cheese
+- [x] cheese
 - [ ] vegetables
 - [x] lentils
 - [ ] yogurth
@@ -8,4 +8,4 @@
 - [ ] rind
 - [ ] fish
 - [ ] fruit
-- [ ] tomato sauce
+- [x] tomato sauce
