@@ -11,6 +11,6 @@ objectieve - objective, impartial
 doel - goal
 ogenschijnlijk - in your eyes
 bevatten - include
-gewone - 
+gewone - normal, not special
 waarde - value
 nieswaarde - newsworthy
