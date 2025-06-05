@@ -1,6 +1,8 @@
 vrijvalleder - volunteer
 verleiden - seduce/attract
-bewust
+bewust - aware, conscious
 geschreven - 
 meestal - 
 daarboven - 
+doel - 
+vakbladen - 
