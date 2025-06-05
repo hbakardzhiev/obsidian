@@ -5,4 +5,4 @@ geschreven -
 meestal - 
 daarboven - 
 doel - 
-vakbladen - 
+vak - compartment/speciality, profession
