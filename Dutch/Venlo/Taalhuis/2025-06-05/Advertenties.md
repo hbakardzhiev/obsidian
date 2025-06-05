@@ -6,3 +6,6 @@ meestal -
 daarboven - 
 doel - 
 vak - compartment/speciality, profession
+samenvoeging - merger
+Daardoor - thereby
+objectieve - objective, impartial
