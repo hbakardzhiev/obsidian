@@ -16,3 +16,7 @@ waarde - value
 nieswaarde - newsworthy
 bereik - scope, reach
 zender - transmitter
+doelgroep - target group
+aandacht - 
+tussen - between
+verstreken - 
