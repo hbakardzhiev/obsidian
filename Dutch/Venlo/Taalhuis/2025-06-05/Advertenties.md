@@ -10,3 +10,7 @@ Daardoor - thereby
 objectieve - objective, impartial
 doel - goal
 ogenschijnlijk - in your eyes
+bevatten - include
+gewone - 
+waarde - value
+nieswaarde - newsworthy
