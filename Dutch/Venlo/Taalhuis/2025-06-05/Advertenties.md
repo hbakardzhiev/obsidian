@@ -14,3 +14,5 @@ bevatten - include
 gewone - normal, not special
 waarde - value
 nieswaarde - newsworthy
+bereik - scope, reach
+zender - transmitter
