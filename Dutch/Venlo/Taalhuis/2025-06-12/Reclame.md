@@ -3,6 +3,6 @@ aandacht - attention
 versterken - make stronger 
 sterk - strong
 zenden - to send
-afhankelijk - 
-reikwijdte - 
+afhankelijk - dependent on
+reikwijdte - reach
 tijdstip - 
