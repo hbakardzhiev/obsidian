@@ -12,3 +12,6 @@ vijftal - team of 5
 ongeveer - approximately
 afstandbediening - remote controller
 bedienen - serve
+afleiden - 
+opgepast - 
+aandac
