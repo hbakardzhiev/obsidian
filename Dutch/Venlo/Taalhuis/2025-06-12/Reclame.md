@@ -5,4 +5,6 @@ sterk - strong
 zenden - to send
 afhankelijk - dependent on
 reikwijdte - reach
-tijdstip - 
+omvang - size
+tijdstip - moment in time
+elftal - team of 11
