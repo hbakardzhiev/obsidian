@@ -8,3 +8,6 @@ reikwijdte - reach
 omvang - size
 tijdstip - moment in time
 elftal - team of 11
+vijftal - team of 5
+ongeveer - approximately
+afstandbediening - remote controller
