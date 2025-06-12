@@ -11,3 +11,4 @@ elftal - team of 11
 vijftal - team of 5
 ongeveer - approximately
 afstandbediening - remote controller
+bedienen - serve
