@@ -14,4 +14,9 @@ afstandbediening - remote controller
 bedienen - serve
 afleiden - 
 opgepast - 
-aandac
+aandacht - 
+houden - 
+reclamezuil - billboard
+pakkende tekst - catchy text
+plaatje - image
+afleiden - distract
