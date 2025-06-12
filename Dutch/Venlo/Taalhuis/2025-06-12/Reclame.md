@@ -12,10 +12,10 @@ vijftal - team of 5
 ongeveer - approximately
 afstandbediening - remote controller
 bedienen - serve
-afleiden - 
-opgepast - 
-aandacht - 
-houden - 
+afleiden - distract
+opgepast - beware, be careful
+aandacht - attention
+houden - keep, hold
 reclamezuil - billboard
 pakkende tekst - catchy text
 plaatje - image
