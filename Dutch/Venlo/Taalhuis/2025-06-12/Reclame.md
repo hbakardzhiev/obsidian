@@ -1,0 +1,2 @@
+bereik - reach 
+aandacht - attention 
