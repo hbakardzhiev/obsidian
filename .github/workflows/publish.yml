@@ -34,7 +34,6 @@ jobs:
         with:
           check-latest: true
           node-version: 'latest'  # or 'current' or 'lts/*' [4]
-          cache: 'npm' # optional: caches npm dependencies [3]
 
       - name: Install Quartz dependencies
         working-directory: quartz
