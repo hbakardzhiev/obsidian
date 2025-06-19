@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"ea5ba72049c53059","x":-420,"y":40,"width":250,"height":60,"type":"text","text":"Entre Finance"},
+		{"id":"9a9043cab8d63fb1","x":-280,"y":460,"width":250,"height":160,"type":"text","text":"- wisdom of the crowd\n- gender\n- wisdom of the crowd"},
+		{"id":"a03ae42a54d8888a","x":-620,"y":460,"width":250,"height":160,"type":"text","text":"- relationship\n- business\n- banker"},
+		{"id":"39adca9bd24dd046","type":"text","text":"- experience of founder\n- sector /product\n- capabilties","x":60,"y":460,"width":250,"height":160},
+		{"id":"610543ba4f6c11ef","x":-620,"y":340,"width":250,"height":60,"type":"text","text":"Banks"},
+		{"id":"eb613a6140f4bcff","x":-280,"y":340,"width":250,"height":60,"type":"text","text":"crowd"},
+		{"id":"98c5ab2a713e9f7f","x":-620,"y":220,"width":250,"height":60,"type":"text","text":"Debt"},
+		{"id":"a6d81aaa6c8f5936","x":-280,"y":220,"width":250,"height":60,"type":"text","text":"Equity"},
+		{"id":"47741429f8398a25","type":"text","text":"Traditional Finance","x":60,"y":40,"width":250,"height":60},
+		{"id":"d5d11a586b5cafa4","x":-170,"y":-140,"width":230,"height":50,"type":"text","text":"PoT"},
+		{"id":"b1541c430c40f51e","type":"text","text":"AI/VC","x":60,"y":280,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8b8063ba19470725","fromNode":"d5d11a586b5cafa4","fromSide":"bottom","toNode":"ea5ba72049c53059","toSide":"top"},
+		{"id":"ee63e99110d0f69e","fromNode":"d5d11a586b5cafa4","fromSide":"bottom","toNode":"47741429f8398a25","toSide":"top"},
+		{"id":"b1060357fc443b22","fromNode":"ea5ba72049c53059","fromSide":"bottom","toNode":"98c5ab2a713e9f7f","toSide":"top"},
+		{"id":"3c519821833e2d0e","fromNode":"ea5ba72049c53059","fromSide":"bottom","toNode":"a6d81aaa6c8f5936","toSide":"top"},
+		{"id":"b0d7037e32525ecf","fromNode":"610543ba4f6c11ef","fromSide":"bottom","toNode":"a03ae42a54d8888a","toSide":"top"},
+		{"id":"219d6f13563b9c9f","fromNode":"98c5ab2a713e9f7f","fromSide":"bottom","toNode":"610543ba4f6c11ef","toSide":"top"},
+		{"id":"42bc4901a029ae19","fromNode":"eb613a6140f4bcff","fromSide":"bottom","toNode":"9a9043cab8d63fb1","toSide":"top"},
+		{"id":"310775a2247e5e96","fromNode":"a6d81aaa6c8f5936","fromSide":"bottom","toNode":"eb613a6140f4bcff","toSide":"top"},
+		{"id":"4095d0781e226eb2","fromNode":"ea5ba72049c53059","fromSide":"bottom","toNode":"b1541c430c40f51e","toSide":"top"},
+		{"id":"cd49282adc46dcfa","fromNode":"b1541c430c40f51e","fromSide":"bottom","toNode":"39adca9bd24dd046","toSide":"top"}
+	]
+}
