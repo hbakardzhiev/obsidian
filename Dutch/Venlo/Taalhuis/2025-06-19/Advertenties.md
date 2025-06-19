@@ -8,3 +8,7 @@ boodschappen - message
 
 Er lopen - Their are walking
 rond - around 
+middel - resource
+door - through
+zoals - as
+bereiken - target/reaches
