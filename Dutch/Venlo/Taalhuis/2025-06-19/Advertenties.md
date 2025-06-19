@@ -12,3 +12,7 @@ middel - resource
 door - through
 zoals - as
 bereiken - target/reaches
+merk - brand
+dienst - service
+bereiden - prepare
+ontvangen - receive
