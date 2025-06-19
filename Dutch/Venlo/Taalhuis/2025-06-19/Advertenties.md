@@ -3,7 +3,8 @@ zichtbaar - visible
 breed - wide
 stedelijke gebieden - city area 
 
-hiernaast - in adition
+hiernaast - next to
 boodschappen - message
 
-Er 
+Er lopen - Their are walking
+rond - around 
