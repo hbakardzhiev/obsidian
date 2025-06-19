@@ -16,3 +16,6 @@ merk - brand
 dienst - service
 bereiden - prepare
 ontvangen - receive
+
+wanner - when 
+geleden 
