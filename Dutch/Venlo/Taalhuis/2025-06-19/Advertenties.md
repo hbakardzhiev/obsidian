@@ -18,4 +18,4 @@ bereiden - prepare
 ontvangen - receive
 
 wanner - when 
-geleden 
+twee dag geleden - 2 days ago 
