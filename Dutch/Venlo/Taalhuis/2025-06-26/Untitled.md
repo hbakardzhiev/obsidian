@@ -1,1 +1,2 @@
 tijdschriften - magazines
+steeds - still 
