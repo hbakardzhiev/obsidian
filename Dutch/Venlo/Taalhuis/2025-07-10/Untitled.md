@@ -76,3 +76,5 @@ ontwerpen: bedenken en plannen van iets, voordat het daadwerkelijk gemaakt wordt
 Je maakt dan een ontwerp.
 
 weerspiegelt: toont, laat zien, reflect
+
+volop ruimte
