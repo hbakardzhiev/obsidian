@@ -80,3 +80,11 @@ weerspiegelt: toont, laat zien, reflect
 volop ruimte
 
 bieden - offer
+
+Vacature-advertentie.
+
+groeiend: groter worden.
+
+notarieel medewerker: werkt in opdracht van een (kandidaat)notaris.
+
+volop ruimte: je krijgt heel veel gelegenheid, je wordt niet beperkt om je te ontwikkelen.
