@@ -78,3 +78,5 @@ Je maakt dan een ontwerp.
 weerspiegelt: toont, laat zien, reflect
 
 volop ruimte
+
+bieden - offer
