@@ -1,0 +1,2 @@
+It is similar to Java Virtual Machine (JVM).
+Every transaction on the EVM is performed as part of the verification procedure in the nodes, thus the transactions are extremely redundant which makes them complicated.
