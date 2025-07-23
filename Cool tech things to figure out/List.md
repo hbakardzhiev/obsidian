@@ -12,4 +12,7 @@
 		X, = market value of preferred and common equity (number of shares x price
 		of stock)/total liabilities,
 		X, = sales/total assets.
-	
+- [ ] disable intel management bullshit on all all host
+	- [x] {WIP} disable on alice
+- [ ] watch 12 week year as Stef suggested
+- [ ] read [Microsoft PowerBI for dummies](https://www.dummies.com/book/technology/information-technology/data-science/general-data-science/microsoft-power-bi-for-dummies-289740/)
