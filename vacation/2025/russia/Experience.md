@@ -24,4 +24,5 @@ Literally the best looking city in Europe is called **Moscow**. How is that poss
 	- and many many others 
 #### The two sides:
 - The positive of taking pride in your country is that it builds good spirit. Russian citizens actually like their country.
-- The negative side is that, Russian 
+- The negative side is that, Russian people are not critical of their government. 
+	- I think this is not the best.
