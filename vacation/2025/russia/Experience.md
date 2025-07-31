@@ -16,4 +16,6 @@ Literally the best looking city in Europe is called **Moscow**. How is that poss
 
 ## Russian pride
 #### This is a chapter on its own
-- I have no way to express how proud are Russians of their heritage. They have created countless number of monuments that t
+- I have no way to express how proud are Russians of their heritage. They have created countless number of monuments that are used to signify every important event from their history. For example:
+	- The siege of Leningrad (Saint Petersburg)
+	- 
