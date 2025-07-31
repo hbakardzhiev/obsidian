@@ -12,6 +12,6 @@ Literally the best looking city in Europe is called **Moscow**. How is that poss
 	- The society seemed very capitalistic (complete opposite of the belief that they like socialism).
 	- It really felt that the society had so much money. Everyone seemed to be throwing money everywhere at anything. These weren't tourists, but actual Russian people.
 	- There I have seen far more products from Western Europe than I see in Western Europe itself (of course, they are more expensive). I know that some wouldn't believe but this is the honest truth.
-	- There was a lot of safety to 
+	- These towns (Saint Petersburg and Moscow) are really gigantic. 
 
 ## Russian pride
