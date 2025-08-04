@@ -1,0 +1,2 @@
+- The pressure of the gas system must be 1.6 bars
+- wifi password is: 4uvkrfpRohxrgcoc
