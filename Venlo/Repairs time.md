@@ -1,9 +1,8 @@
 ## Monday
-- from 11am onwards Hristo
-- till 11am Nevena
-
+- all day
 ### Tuesday
 - till 13am
-
 ### Wednesday
-- 
+- from 11am onwards
+### Thursday
+- from 13 onwards
