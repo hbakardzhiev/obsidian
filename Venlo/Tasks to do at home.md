@@ -1,2 +1,3 @@
 - [ ] unpack the luggage
 - [ ] throw away hazardous waste in appropriate place
+- [ ] drill holes into the edible flower in the yogurt bucket
