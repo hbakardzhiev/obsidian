@@ -1,5 +1,5 @@
-- toaster
-- toilet brush
-- toilet chair
-- wooden cutting board
-- multi vitamins
+- [ ] toaster
+- [ ] toilet brush
+- [ ] toilet chair
+- [ ] wooden cutting board
+- [ ] multi vitamins
