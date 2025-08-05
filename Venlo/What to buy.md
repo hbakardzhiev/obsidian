@@ -1,2 +1,3 @@
 - toaster
-- toilet 
+- toilet brush
+- toilet chair
