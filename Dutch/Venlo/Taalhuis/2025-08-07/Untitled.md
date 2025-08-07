@@ -1,5 +1,7 @@
 geweldig - magnificent
 uitgelegd - explained
 herinneren - remember
-rustig - 
+rustig - calm
 schoon - beautiful
+ontspannen - relax
+intspanen - make an effort
