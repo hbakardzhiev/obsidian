@@ -17,3 +17,4 @@ reusachtige - gigantic
 kasteel - castle
 tijdens - during
 steden - towns
+handel - trade
