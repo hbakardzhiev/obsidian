@@ -7,4 +7,6 @@ ontspannen - relax
 intspanen - make an effort
 prachtige - beautiful
 sfeervolle - atmospheric
-uitwaaien - blowing out
+uitwaaien - catch some fresh air
+genieten - enjoy
+biedt - offers
