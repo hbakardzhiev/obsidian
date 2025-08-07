@@ -1,0 +1,2 @@
+geweldig - magnificent
+uitgelegd - explained
