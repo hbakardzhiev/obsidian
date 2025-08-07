@@ -11,3 +11,6 @@ uitwaaien - catch some fresh air
 genieten - enjoy
 biedt - offers
 overdag - during the day
+molen - mills
+mietje - 
+reusachtige - gi
