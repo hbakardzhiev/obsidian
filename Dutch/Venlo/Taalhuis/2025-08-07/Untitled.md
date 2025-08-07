@@ -10,4 +10,4 @@ sfeervolle - full of good atmosphere
 uitwaaien - catch some fresh air
 genieten - enjoy
 biedt - offers
-overdag
+overdag - during the day
