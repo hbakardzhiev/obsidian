@@ -1,5 +1,5 @@
-- We have 3 hdmi cables
-	- we can some of them
-- ice bag
-- We have 3 bicycle pumps
+- [ ] We have 3 hdmi cables
+- [ ] ice bag
+- [ ] We have 3 bicycle pumps
 - air purifier
+- 
