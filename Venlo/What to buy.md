@@ -3,3 +3,4 @@
 - [ ] toilet chair
 - [ ] wooden cutting board
 - [ ] multi vitamins
+- [ ] something that sound-proofs windows
