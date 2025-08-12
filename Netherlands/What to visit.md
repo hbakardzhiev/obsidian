@@ -1,3 +1,6 @@
 - [ ] [kasteel de haar](https://www.kasteeldehaar.nl/)
 	- 16 EUR for CJP holders
 	- free for museum card holders
+- [ ] [Nederlands Openluchtmuseum](https://www.openluchtmuseum.nl/)
+	- 15 EUR for CJP holders
+	- free for museum card holders
