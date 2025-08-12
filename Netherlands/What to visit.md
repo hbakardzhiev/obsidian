@@ -1,0 +1,3 @@
+- [ ] [kasteel de haar](https://www.kasteeldehaar.nl/)
+	- 16 EUR for CJP holders
+	- free for museum card holders
