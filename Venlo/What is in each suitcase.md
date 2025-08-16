@@ -1,7 +1,6 @@
 ### Big black broken suitcase
 1) the bubble wraps
 2) 
-
 ### Black small A1 suitcase
-1) pillow for sleeping (big, clean, )
+1) pillow for sleeping (big, clean, and it was Theo's before. It includes a cover as well)
 2) pillow for chair 
