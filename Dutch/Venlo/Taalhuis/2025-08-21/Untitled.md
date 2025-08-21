@@ -19,3 +19,4 @@ ervaring - experience
 verken - explore
 scheren - shave
 scherenkusten - archipelago coasts
+uitgeroep - proclamation
