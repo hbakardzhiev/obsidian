@@ -20,3 +20,6 @@ verken - explore
 scheren - shave
 scherenkusten - archipelago coasts
 uitgeroep - proclamation
+bezienswaardigheden - worth to visit
+perel - pearl
+verborgen - hidden
