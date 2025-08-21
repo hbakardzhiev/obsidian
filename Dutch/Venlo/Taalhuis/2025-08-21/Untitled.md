@@ -17,3 +17,5 @@ vergelijkbaar - comparable
 middernacht - middle night
 ervaring - experience
 verken - explore
+scheren - shave
+scherenkusten - archipelago coasts
