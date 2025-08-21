@@ -15,3 +15,4 @@ zacht - soft, gentle
 genieten - enjoy
 vergelijkbaar - comparable
 middernacht - middle night
+ervaring - experience
