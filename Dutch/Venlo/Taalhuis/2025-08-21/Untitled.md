@@ -11,3 +11,7 @@ juist - correct, right
 mogelijkheden - possibilities
 rustgevende - soothing
 grachten - canals
+zacht - soft, gentle
+genieten - enjoy
+vergelijkbaar - comparable
+middernacht - middle night
