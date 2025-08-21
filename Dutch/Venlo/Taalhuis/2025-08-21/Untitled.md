@@ -25,3 +25,5 @@ perel - pearl
 verborgen - hidden
 verhallen - to tell
 bieden - offer
+
+
