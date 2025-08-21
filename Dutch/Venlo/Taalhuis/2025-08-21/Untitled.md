@@ -10,3 +10,4 @@ juist - correct, right
 (wandelen)stokken - (for walking in the mountains)sticks 
 mogelijkheden - possibilities
 rustgevende - soothing
+grachten - canals
