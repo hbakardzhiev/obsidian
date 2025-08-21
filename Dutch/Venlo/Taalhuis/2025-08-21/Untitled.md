@@ -24,4 +24,4 @@ bezienswaardigheden - worth to visit
 perel - pearl
 verborgen - hidden
 verhallen - to tell
-bieden - offer
+	bieden - offer
