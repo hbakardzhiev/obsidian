@@ -1,2 +1,4 @@
 zeewier - seaweed
-bruisende
+bruisende - sparkling
+heuvel - hill
+obstakels - obstacles
