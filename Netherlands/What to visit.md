@@ -4,3 +4,5 @@
 - [ ] [Nederlands Openluchtmuseum](https://www.openluchtmuseum.nl/)
 	- 15 EUR for CJP holders
 	- free for museum card holders
+- [x] kasteel helmond 
+- [ ] [Arnhem BTC](Arnhem%20BTC.md)

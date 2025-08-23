@@ -1,0 +1,21 @@
+- [ ] Vishandel Heinen & Koelewijn
+	- Markt (vrijdag + zaterdag) 
+	- Market fish stall
+- [x] Mimint Bio Market
+	- Turfstraat 15 6811 HK Arnhem
+	- Biological convenience store, sustainable and beauty products etc.
+- [x] Parfumerie Linnewiel
+	- Kortestraat 7 6811EN Arnhem
+	- Perfumery
+- [x] Boekhandel Hijman Ongerijmd
+	- Grote Oord 15 6811 GA Arnhem
+	- Pancake restaurant
+- [ ] Xoco
+	- Kerkstraat 31 6811DM Arnhem
+	- Chocolat store
+- [ ] Schoenmakerij Wim
+	- Klarestraat 8 6811 DR Arnhem
+	- Shoemaker, also selling belts and soles etc.
+- [x] De Pizzabakkers
+	- Broerenstraat 35 6811 EB Arnhem
+	- Pizza for diner, on weekends also open for lunch
