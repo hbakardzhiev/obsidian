@@ -1,0 +1,5 @@
+- [ ] [Kasteel Doorwerth](https://www.glk.nl/doorwerth/kasteel-doorwerth)
+- [ ] [Kasteel Rosendael](https://www.glk.nl/rosendael/kasteel-rosendael)
+- [ ] [Nederlands Openluchtmuseum](https://www.openluchtmuseum.nl/)
+	- 15 EUR for CJP holders
+	- free for museum card holders

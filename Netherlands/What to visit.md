@@ -1,8 +1,6 @@
 - [ ] [kasteel de haar](https://www.kasteeldehaar.nl/)
 	- 16 EUR for CJP holders
 	- free for museum card holders
-- [ ] [Nederlands Openluchtmuseum](https://www.openluchtmuseum.nl/)
-	- 15 EUR for CJP holders
-	- free for museum card holders
+- [ ] [Arnhem Museum and Castles](Arnhem%20Museum%20and%20Castles.md)
 - [x] kasteel helmond 
 - [x] [Arnhem BTC](Arnhem%20BTC.md)
