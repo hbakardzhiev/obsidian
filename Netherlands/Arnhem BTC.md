@@ -10,10 +10,10 @@
 - [x] Boekhandel Hijman Ongerijmd
 	- Grote Oord 15 6811 GA Arnhem
 	- Pancake restaurant
-- [ ] Xoco
+- [x] Xoco
 	- Kerkstraat 31 6811DM Arnhem
 	- Chocolat store
-- [ ] Schoenmakerij Wim
+- [x] Schoenmakerij Wim
 	- Klarestraat 8 6811 DR Arnhem
 	- Shoemaker, also selling belts and soles etc.
 - [x] De Pizzabakkers
