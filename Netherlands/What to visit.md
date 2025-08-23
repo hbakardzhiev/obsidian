@@ -15,4 +15,7 @@
 	- offering heathlands, forests, and sand dunes
 - [ ] Wadden Sea Islands
 	- UNESCO World Heritage Site includes five islands (Texel, Vlieland, Terschelling, Ameland, Schiermonnikoog)
-	-  
+	- known for pristine beaches, dunes, and unique ecosystems
+- [ ] Efteling Theme Park
+	- A fairytale-themed amusement park
+	- Efteling is one of Europe’s oldest and most enchanting theme parks, blending folklore-inspired rides with modern thrills
