@@ -2,4 +2,4 @@
 - [ ] Zaanse Schans
 	- open-air museum near Amsterdam showcases a well-preserved 17th- and 18th-century Dutch village with iconic windmills, wooden houses, and traditional crafts like clog-making and cheese production
 	- living history experience, easily accessible by bike or public transport from Amsterdam, offering a glimpse into the Netherlands’ industrial past
-- [ ] Haarlem (not really in A)
+- [ ] Haarlem (not really in AMS but it is very close)

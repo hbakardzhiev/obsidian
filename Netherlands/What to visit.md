@@ -5,4 +5,14 @@
 - [x] kasteel helmond 
 - [x] [Arnhem BTC](Arnhem%20BTC.md)
 - [ ] [Places without cars](Places%20without%20cars.md)
-- [ ] 
+- [ ] [To visit in Amsterdam](To%20visit%20in%20Amsterdam.md)
+- [ ] Keukenhof
+	- “Garden of Europe”
+	- one of the world’s largest flower gardens
+	- showcasing millions of tulips, daffodils, and hyacinths
+- [ ] Hoge Veluwe National Park
+	- One of the Netherlands’ largest national parks
+	- offering heathlands, forests, and sand dunes
+- [ ] Wadden Sea Islands
+	- UNESCO World Heritage Site includes five islands (Texel, Vlieland, Terschelling, Ameland, Schiermonnikoog)
+	-  
