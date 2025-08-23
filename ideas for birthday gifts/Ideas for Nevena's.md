@@ -4,4 +4,4 @@
 - [ ] Get her a spa day
 - [ ] Buy her an event
 - [ ] Buy her a massage
-- [ ] buy her Celtic salt 
+- [x] buy her Celtic salt 
