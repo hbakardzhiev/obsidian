@@ -1,0 +1,4 @@
+- [x] Rijksmuseum
+- [ ] Zaanse Schans
+	- open-air museum near Amsterdam showcases a well-preserved 17th- and 18th-century Dutch village with iconic windmills, wooden houses, and traditional crafts like clog-making and cheese production
+	- 

@@ -1,0 +1,3 @@
+- [ ] Giethoorn
+- [ ] Utrecht has a car-free neighborhood called Merwede
+	- designed to house 12,000 residents with all essential facilities accessible by walking or cycling
