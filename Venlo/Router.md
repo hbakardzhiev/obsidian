@@ -1,1 +1,1 @@
-admin password: ``qwerty123!``
+admin password: ``Qwerty123!``
