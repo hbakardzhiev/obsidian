@@ -3,3 +3,5 @@ ontdekken - discover
 waard - worth
 levendige - lively
 mogelijkheid - opportunity
+verborgen pareltjes - hidden treasury 
+verborgen - forbidden
