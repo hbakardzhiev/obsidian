@@ -45,3 +45,5 @@ bliksemt - lightning
 waait - blows
 valt - fall
 ontstaat - arises
+frisser - fresh
+matige wind - calmer
