@@ -12,5 +12,5 @@ windrichting met de kracht van 3 = matig.
 windkracht.
 zeilen: een bootje met een zeil waar de wind in gaat.
 luieren - being lazying  
-
+afkoelen - cool down
 de pier van Schepeningen 
