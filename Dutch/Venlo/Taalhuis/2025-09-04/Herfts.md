@@ -22,8 +22,7 @@ Bungee jumpen.
 Tokkelbaan. Tokkelen: ziplinen.
 schaduw van de bomen in het bos.
 afkoelen: koud worden.
-
 parasol: bescherming tegen de zon = 'sol'.
-paraplui: bescherming tegen de regen = plui.
+paraplu: bescherming tegen de regen = plui.
 paal met nummer 7: een 
 oriëntatiepunt aan de zee.
