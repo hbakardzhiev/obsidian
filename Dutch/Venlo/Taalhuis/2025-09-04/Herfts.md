@@ -31,4 +31,4 @@ het viel met bakken uit de lucht - it was pouring
 gewaaid - blow
 leek - seemed
 tegen - against
-regenachtig - every day 
+regenachtig - every day rains
