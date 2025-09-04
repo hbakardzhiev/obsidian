@@ -32,3 +32,9 @@ gewaaid - blow
 leek - seemed
 tegen - against
 regenachtig - every day rains
+Het viel met bakken uit de lucht: heeel veel regen.
+regenachtig: het regent vaak/regelmatig.
+
+gewaaid: werkwoord = waaien: er is veel wind.
+
+storm: harde wind, met windkracht 9.fietsen.
