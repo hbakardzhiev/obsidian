@@ -26,4 +26,6 @@ parasol: bescherming tegen de zon = 'sol'.
 paraplu: bescherming tegen de regen = plui.
 paal met nummer 7: een 
 oriëntatiepunt aan de zee.
-	omgeslagen - 
+omgeslagen - turn over
+het viel met bakken uit de lucht - it was pouring
+gewaaid - blow
