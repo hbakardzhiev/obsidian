@@ -38,3 +38,5 @@ regenachtig: het regent vaak/regelmatig.
 gewaaid: werkwoord = waaien: er is veel wind.
 
 storm: harde wind, met windkracht 9.fietsen.
+Stormparaplu: gebruiken bij windkracht 10
+onweer - storm
