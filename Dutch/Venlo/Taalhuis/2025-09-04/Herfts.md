@@ -14,19 +14,16 @@ zeilen: een bootje met een zeil waar de wind in gaat.
 luieren - being lazying  
 afkoelen - cool down
 de pier van Schepeningen 
-
 Ik ben in Scheveningen geweest.
-
 Pier van Scheveningen met een reuzenrad.
-
 luieren: niets doen.
-
 lui: 'laesie'
-
 Bungee jumpen.
-
 Tokkelbaan. Tokkelen: ziplinen.
-
 schaduw van de bomen in het bos.
-
 afkoelen: koud worden.
+
+parasol: bescherming tegen de zon = 'sol'.
+paraplui: bescherming tegen de regen = plui.
+paal met nummer 7: een 
+oriëntatiepunt aan de zee.
