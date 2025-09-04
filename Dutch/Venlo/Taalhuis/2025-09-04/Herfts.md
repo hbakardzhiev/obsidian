@@ -41,4 +41,6 @@ storm: harde wind, met windkracht 9.fietsen.
 Stormparaplu: gebruiken bij windkracht 10
 onweer - storm
 donder - thunder (the sound)
-bliksemt - 
+bliksemt - lightning 
+waait - blows
+valt - fall
