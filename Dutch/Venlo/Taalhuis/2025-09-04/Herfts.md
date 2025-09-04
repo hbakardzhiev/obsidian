@@ -29,3 +29,5 @@ oriëntatiepunt aan de zee.
 omgeslagen - turn over
 het viel met bakken uit de lucht - it was pouring
 gewaaid - blow
+leek - seemed
+tegen - against
