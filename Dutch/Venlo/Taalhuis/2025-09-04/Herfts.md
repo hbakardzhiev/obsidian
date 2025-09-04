@@ -11,5 +11,6 @@ bewolkt: er zijn wolken in de lucht.
 windrichting met de kracht van 3 = matig.
 windkracht.
 zeilen: een bootje met een zeil waar de wind in gaat.
+luieren - being lazying  
 
 de pier van Schepeningen 
