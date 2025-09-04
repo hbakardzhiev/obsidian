@@ -44,3 +44,4 @@ donder - thunder (the sound)
 bliksemt - lightning 
 waait - blows
 valt - fall
+ontstaat - arises
