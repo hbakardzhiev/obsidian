@@ -26,3 +26,4 @@ parasol: bescherming tegen de zon = 'sol'.
 paraplu: bescherming tegen de regen = plui.
 paal met nummer 7: een 
 oriëntatiepunt aan de zee.
+	omgeslagen - 
