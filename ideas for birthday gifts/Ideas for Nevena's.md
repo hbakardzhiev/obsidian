@@ -5,3 +5,4 @@
 - [ ] Buy her an event
 - [ ] Buy her a massage
 - [x] buy her Celtic salt 
+- [ ] bathroom chair
