@@ -1,5 +1,6 @@
 - [x] cheese
 - [ ] vegetables
+w 
 - [x] lentils
 - [ ] yogurth
 - [ ] Spaghetti
