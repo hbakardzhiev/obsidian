@@ -30,3 +30,11 @@ Gerechtjes -
 Op dronk - exactly good 
 Terugkommen/terugkeeren- comeback 
 Biedt-offers
+
+
+
+Таблетки за съдомиялна
+Чадър
+Прясно мляко
+Яйца
+Кисело мляко 
