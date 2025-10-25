@@ -1,3 +1,3 @@
-| rent     | internet | Gas + Electricity | Total      |
-| -------- | -------- | ----------------- | ---------- |
-| 1045 EUR | 25 EUR   | 43 EUR            | *1113 EUR* |
+| rent     | internet | Gas + Electricity | Water | Total      |
+| -------- | -------- | ----------------- | ----- | ---------- |
+| 1045 EUR | 25 EUR   | 43 EUR            | 27    | *1110 EUR* |
