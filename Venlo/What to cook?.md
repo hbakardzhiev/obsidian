@@ -8,3 +8,4 @@
 - https://www.loveandlemons.com/mushroom-risotto/
 - https://www.loveandlemons.com/butternut-squash-soup/
 - https://www.loveandlemons.com/instant-pot-lentil-soup/
+- https://www.loveandlemons.com/baked-potato/
