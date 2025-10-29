@@ -3,4 +3,8 @@
 - https://www.loveandlemons.com/eggplant-parmesan/
 - https://www.loveandlemons.com/vegetarian-stuffed-peppers/
 - https://www.loveandlemons.com/whole-roasted-cauliflower/
-- 
+- https://www.loveandlemons.com/stuffed-shells-recipe/
+- https://www.loveandlemons.com/enchiladas-recipe/
+- https://www.loveandlemons.com/mushroom-risotto/
+- https://www.loveandlemons.com/butternut-squash-soup/
+- https://www.loveandlemons.com/instant-pot-lentil-soup/
