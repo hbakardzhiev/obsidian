@@ -6,8 +6,8 @@
 4) Бакенд engineer C#
 	1) писане на автоматизирани тестове
 	2) малко инфраструктура
-	3) оправяне на дефекти в голяма кодова база multi language 
-	4) оправяне на дефекти в windows form приложения
+	3) оправяне на дефекти в голяма кодова база multi language commercial tool
+	4) оправяне на дефекти в windows form приложения (in house usage)
 5) Скръм мастър на екип от 10 души
 6) Data modelling опит с dbt
 	1) създаване на data models готови за консумация от BI developers
