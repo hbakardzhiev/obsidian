@@ -1,14 +1,19 @@
-1) Спотифай Клоун (php + html/css/js)
-	1) Изцяло хоби проект за забавление
-2) Бакенд със Azure Serverless functions + аутентикация с Azure Active Directory за бекъп на конфигурации (в един стартъп)
-3) Фронтенд на React (TypeScript) (в един стартъп)
-	1) Формички, полета каквото се сетиш правих тук + консумация на GraphQL API от фронтенда 
-4) Бакенд engineer C#
-	1) писане на автоматизирани тестове
-	2) малко инфраструктура
-	3) оправяне на дефекти в голяма кодова база multi language commercial tool
-	4) оправяне на дефекти в windows form приложения (in house usage)
-5) Скръм мастър на екип от 10 души
-6) Data modelling опит с dbt
-	1) създаване на data models готови за консумация от BI developers
-	2) чатботи с AI + MCP за автоматизация на някои функции
+1) Малко фронтенд опит (React, TypeScript)
+	1) В един стартъп: Frontend на React (TypeScript) с интерактивни форми и GraphQL API интеграция (от бакенда).
+2. Backend Developer (C#, Azure)
+
+Стартъп: Azure Serverless Functions + Azure AD аутентикация за backup на конфигурации.
+Backend Engineer (C#): Автоматизирани тестове, инфраструктура (CI/CD), bug fixing в multi-language commercial tool и Windows Forms apps.
+
+3. Хоби проекти
+
+Spotify Clone: Full-stack с PHP, HTML/CSS/JS за playlists и streaming simulation.
+
+4. Scrum Master
+
+Водене на екип от 10 души: Sprint planning, stand-ups и retrospectives за подобряване на velocity.
+
+5. Data Engineer (dbt, AI)
+
+dbt: Създаване на data models за BI консумация.
+AI чатботи + MCP за автоматизация на workflows.
