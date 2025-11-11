@@ -6,11 +6,5 @@ To start sending live traffic and engaging directly with your customers on Viber
 2) Warranty letter
 	1) Used for confirming your commitment to Viber's messaging policies.
 
-3) After completing these files, please send them to 
-selfserve@infobip.com
- with 'Viber registration documents' as the email subject.
-
-Need to register a Viber sender, but you're still not sure if you've got all the details right? 
-Contact us with your business info
-
-If you operate in the gambling or loan industry, please use the contact link above to reach out to us directly.
+3) After completing these files, please send them to selfserve@infobip.com with 'Viber registration documents' as the email subject.
+4) 
