@@ -3,3 +3,4 @@
 - [ ] We have 3 bicycle pumps
 - [ ] makes the air smell nice
 - [ ] champagne glasses
+- [ ] форма за лед
