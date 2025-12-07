@@ -1,4 +1,4 @@
 
-| Day | Activity |
-| --- | -------- |
-|     |          |
+| Day      | Activity |
+| -------- | -------- |
+| Saturday |          |
